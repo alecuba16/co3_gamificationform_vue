@@ -1,0 +1,142 @@
+{ 
+   "intro":{
+      "en":"Your playful habits can inspire our design services. For instance, if you like stories or achievements, we can introduce service elements accordingly. ",
+      "it":"I tuoi gusti in tema di giochi e entertainment possono ispirare il nostro design. Ad esempio, se ti piacciono le storie o le sfide, possiamo introdurre di elementi di questo genere nell’esperienza del servizio.",
+      "el":"Οι παιχνιδιάρχες συνήθειες σας μπορούν να εμπνεύσουν τις υπηρεσίες σχεδιασμού μας. Για παράδειγμα, αν σας αρέσουν ιστορίες ή επιτεύγματα, μπορούμε να εισαγάγουμε ανάλογα τα στοιχεία υπηρεσιών.",
+      "fr":"Vos habitudes ludiques peuvent inspirer nos services de design. Par exemple, si vous aimez les histoires ou les réalisations, nous pouvons introduire des éléments de service en conséquence."
+   },
+   "title":{ 
+      "en":"When you play a table or an electronic game, how much important is each of the following elements?",
+      "it":"Quando giochi (che sia un gioco da tavolo o un gioco elettronico) quanto sono importanti i seguenti elementi?",
+      "el":"Όταν παίζετε ένα τραπέζι ή ένα ηλεκτρονικό παιχνίδι, πόσο σημαντικό είναι κάθε ένα από τα παρακάτω στοιχεία;",
+      "fr":"Lorsque vous jouez à un jeu de table ou à un jeu électronique, quelle est l'importance de chacun des éléments suivants?"
+   },
+   "scale_title":{
+      "en":"Click or move the slider on the scale from 0 = Not Important/Not Enjoyable to 5 = Very Important / Very Enjoyable",
+      "it":"Tocca o scorri la barra sulla scala da 0: non importante a 5: molto importante",
+      "el":"Κάντε κλικ ή μετακινήστε το ρυθμιστικό στην κλίμακα από 0 = Δεν είναι σημαντικό / δεν είναι ευχάριστο έως 5 = πολύ σημαντικό / πολύ ευχάριστο",
+      "fr":"Cliquez ou déplacez le curseur sur l'échelle de 0 = Pas important / Pas agréable à 5 = Très important / Très agréable"
+   },
+   "keyValueArray":[ 
+      { 
+         "key":"game_importance_best_control_the_game",
+         "value":0,
+         "text":{ 
+            "en":"Be the best or control the game",
+            "it":"Essere il migliore, controllare il gioco",
+            "el":"Να είστε ο καλύτερος ή να ελέγχετε το παιχνίδι",
+            "fr":"Soyez le meilleur ou contrôlez le jeu"
+         }
+      },
+      { 
+         "key":"game_importance_get_rare_items",
+         "value":0,
+         "text":{ 
+            "en":"Acquiring rare items/cards",
+            "it":"Acquisire oggetti rari",
+            "el":"Απόκτηση σπάνιων αντικειμένων / καρτών",
+            "fr":"Acquisition d'objets/cartes rares"
+         }
+      },
+      { 
+         "key":"game_importance_optimize_character_card_collection",
+         "value":0,
+         "text":{ 
+            "en":"Optimizing your character/card collection as much as possible",
+            "it":"Ottimizzare il più possibile il mio profilo/personaggio",
+            "el":"Optimizing your character/card collection as much as possible",
+            "fr":"Optimizing your character/card collection as much as possible"
+         }
+      },
+      { 
+         "key":"game_importance_competing_with_others",
+         "value":0,
+         "text":{ 
+            "en":"Competing with other players",
+            "it":"Competere con altri giocatori",
+            "el":"Competing with other players",
+            "fr":"Competing with other players"
+         }
+      },
+      { 
+         "key":"game_importance_talking_with_others",
+         "value":0,
+         "text":{ 
+            "en":"Talking/Chatting with other players",
+            "it":"Parlare/chattare con gli altri giocatori",
+            "el":"Talking/Chatting with other players",
+            "fr":"Talking/Chatting with other players"
+         }
+      },
+      { 
+         "key":"game_importance_be_part_of_club",
+         "value":0,
+         "text":{ 
+            "en":"Being part of club/guild or special groups",
+            "it":"Essere parte di un gruppo particolare",
+            "el":"Being part of club/guild or special groups",
+            "fr":"Being part of club/guild or special groups"
+         }
+      },
+      { 
+         "key":"game_importance_grouping_with_others",
+         "value":0,
+         "text":{ 
+            "en":"Grouping/pact with other players",
+            "it":"Collaborare con altri giocatori",
+            "el":"Grouping/pact with other players",
+            "fr":"Grouping/pact with other players"
+         }
+      },
+      { 
+         "key":"game_importance_keep_touch_with_friends",
+         "value":0,
+         "text":{ 
+            "en":"Play to keep in touch with your friends",
+            "it":"Rimanere in contatto con i miei amici attraverso il gioco",
+            "el":"Play to keep in touch with your friends",
+            "fr":"Play to keep in touch with your friends"
+         }
+      },
+      { 
+         "key":"game_importance_learn_stories_traditions_facts",
+         "value":0,
+         "text":{ 
+            "en":"Play to learn about stories, traditions or facts",
+            "it":"Conoscere storie, tradizioni o fatti attraverso il gioco",
+            "el":"Play to learn about stories, traditions or facts",
+            "fr":"Play to learn about stories, traditions or facts"
+         }
+      },
+      { 
+         "key":"game_importance_immersed_in_game",
+         "value":0,
+         "text":{ 
+            "en":"Feeling immersed in the game",
+            "it":"Sentirmi immersi nel gioco",
+            "el":"Feeling immersed in the game",
+            "fr":"Feeling immersed in the game"
+         }
+      },
+      { 
+         "key":"game_importance_explore_the_game",
+         "value":0,
+         "text":{ 
+            "en":"Go through all the game possible options/places/movements/world",
+            "it":"Esplorare tutte le possibili opzioni / luoghi / movimenti possibili nel campo d’azione",
+            "el":"Go through all the game possible options/places/movements/world",
+            "fr":"Go through all the game possible options/places/movements/world"
+         }
+      },
+      { 
+         "key":"game_importance_resconstruct_character_history",
+         "value":0,
+         "text":{ 
+            "en":"In case of a history game, create or recollect your position/character history",
+            "it":"Ricreare o ricostruire la la storia del mio personaggio nel gioco",
+            "el":"In case of a history game, create or recollect your position/character history",
+            "fr":"In case of a history game, create or recollect your position/character history"
+         }
+      }
+   ]
+}

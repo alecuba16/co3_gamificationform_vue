@@ -1,0 +1,43 @@
+{ 
+    "title":{ 
+       "en":"How often do you play? Reply considering both board games (e.g. dominoes, Monopoly, poker) and electronic games (on consoles, PCs, smartphones).",
+       "it":"Con che frequenza giochi? Rispondi considerando sia giochi da tavolo (es. domino, Monopoly, poker) sia giochi elettronici (su console, Pc, smartphone)?",
+       "el":"Πόσο συχνά παίζεις; Απαντήστε λαμβάνοντας υπόψη τόσο τα επιτραπέζια παιχνίδια (π.χ. ντόμινο, Monopoly, poker) όσο και ηλεκτρονικά παιχνίδια (σε κονσόλες, υπολογιστές, smartphones).",
+       "fr":"A quelle fréquence jouez-vous ? Répondez en tenant compte à la fois des jeux de société (p. ex. dominos, Monopoly, poker) et des jeux électroniques (sur consoles, PC, smartphone)."
+    },
+    "scale_title":{
+      "en":"Click or move the slider on the scale from 0 = Not Important/Not Enjoyable to 5 = Very Important / Very Enjoyable",
+      "it":"Tocca o scorri la barra sulla scala da 0: non importante a 5: molto importante",
+      "el":"Κάντε κλικ ή μετακινήστε το ρυθμιστικό στην κλίμακα από 0 = Δεν είναι σημαντικό / δεν είναι ευχάριστο έως 5 = πολύ σημαντικό / πολύ ευχάριστο",
+      "fr":"Cliquez ou déplacez le curseur sur l'échelle de 0 = Pas important / Pas agréable à 5 = Très important / Très agréable"
+    },
+    "keyValueArray":[ 
+       { 
+          "key":"non_player",
+          "text":{ 
+             "en":"I never play any game",
+             "it":"Non gioco mai",
+             "el":"Ποτέ δεν παίζω κανένα παιχνίδι",
+             "fr":"Je ne joue à aucun jeu."
+          }
+       },
+       { 
+          "key":"rare_sesions",
+          "text":{ 
+             "en":"I enjoy short or rare sessions",
+             "it":"Gioco brevi sessioni o raramente",
+             "el":"Μου αρέσουν μικρές ή σπάνιες συνεδρίες",
+             "fr":"J'aime les séances courtes ou rares"
+          }
+       },
+       { 
+          "key":"regularly_player",
+          "text":{ 
+             "en":"I regularly play",
+             "it":"Gioco regolarmente",
+             "el":"Παίζω τακτικά",
+             "fr":"Je joue régulièrement"
+          }
+       }
+    ]
+ }

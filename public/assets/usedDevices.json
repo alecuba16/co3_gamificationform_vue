@@ -1,0 +1,83 @@
+{ 
+    "description":"D1. What type of devices do you usually use?",
+    "title":{ 
+       "en":"What type of devices do you usually use?",
+       "it":"Che tipo di dispositivi usi abitualmente?",
+       "el":"Ποιoν τύπο συσκευών χρησιμοποιείτε συνήθως;",
+       "fr":"Quel type de terminal utilisez vous habituellement ?"
+    },
+    "keyValueArray":[ 
+       { 
+          "key":"desktop_pc",
+          "text":{ 
+             "en":"Desktop computer",
+             "it":"Desktop computer",
+             "el":"Desktop Υπολογιστή",
+             "fr":"Ordinateur fixe"
+          }
+       },
+       { 
+          "key":"laptop",
+          "text":{ 
+             "en":"Laptop",
+             "it":"Laptop",
+             "el":"Laptop",
+             "fr":"Ordinateur portable"
+          }
+       },
+       { 
+          "key":"console",
+          "text":{ 
+             "en":"Video game console",
+             "it":"Video game console",
+             "el":"Κονσόλα video games",
+             "fr":"Console de jeux"
+          }
+       },
+       { 
+          "key":"portable_console",
+          "text":{ 
+             "en":"Portable game console",
+             "it":"Portable game console",
+             "el":"Φορητή game κονσόλα",
+             "fr":"Console de jeux portable"
+          }
+       },
+       { 
+          "key":"ebook_reader",
+          "text":{ 
+             "en":"eBook reader",
+             "it":"eBook reader",
+             "el":"Ηλεκτρονικό βιβλίο",
+             "fr":"Lecteur ebook"
+          }
+       },
+       { 
+          "key":"tablet",
+          "text":{ 
+             "en":"Tablet",
+             "it":"Tablet",
+             "el":"Tablet",
+             "fr":"Tablette"
+          }
+       },
+       { 
+          "key":"smartphone",
+          "text":{ 
+             "en":"Smartphone",
+             "it":"Smartphone",
+             "el":"Smartphone",
+             "fr":"Smartphone"
+          }
+       },
+       { 
+          "key":"weareable",
+          "text":{ 
+             "en":"Wearable devices (e.g. smartband)",
+             "it":"Dispositivi indossabili (es. smart-band)",
+             "el":"Φορητές συσκευές (π.χ. smart-band)",
+             "fr":"Liseuse (p.ex. smartband)"
+          }
+       }
+    ]
+ }

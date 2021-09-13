@@ -1,0 +1,37 @@
+{
+    "files.exclude": {
+        "**/node_modules/": true,
+    },
+    "deploy": {
+            "packages": [
+                {
+                    "name": "Deploy to Projectco3",                    
+                    "button": {
+                        "text": "Deploy to Projectco3",
+                        "tooltip": "Click here to deploy to projectco3...",
+                        "targets": [ "Deploy projectco3" ]
+                    },
+                    "files":[
+                        "/gamificationform/**"
+                    ],
+                    "showPopupOnSuccess": true,
+                    "showDeployResultInStatusBar": true
+                }
+            ],
+            "targets": [
+                {
+                    "type": "sftp",
+                    "name": "Deploy projectco3",
+                    "description": "Deploy a /wp-content/gamificationformv4/",
+                    "host": "www.projectco3.eu", "port": 22,
+                    "user": "projectco3-manager", "privateKey": "./.vscode/unitossh_private_key_openssh",
+                    "dir":"/www/projectco3.di.unito.it/wp-content/gamificationformv4/",
+                    "mappings": [
+                        {
+                            "source": "/gamificationform",
+                            "target": "/"
+                        }],
+                }
+            ]
+        }
+}

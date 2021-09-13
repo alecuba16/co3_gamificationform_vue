@@ -1,0 +1,55 @@
+{ 
+    "title":{
+        "en":"Which of the following description fits better with your attitude towards technology and innovation?",
+        "it":"Quale delle seguenti affermazioni si adatta meglio al tuo atteggiamento nei confronti della tecnologia e dell'innovazione?",
+        "el":"Ποια από τις παρακάτω περιγραφές ταιριάζει περισσότερο με τη στάση σας απέναντι στην τεχνολογία και την καινοτομία;",
+        "fr":"Quelle serait la meilleure façon pour vous de décrire votre rapport à la technologie ?"
+    },
+    "keyValueArray":[ 
+       { 
+          "key":"i_try_as_soon_as_possible",
+          "text":{ 
+             "en":"When I hear about a new technology, I want to try it as soon as possible",
+             "it":"Quando sento parlare di una nuova tecnologia, voglio provarla il prima possibile",
+             "el":"Όταν μαθαίνω για μια νέα τεχνολογία, θέλω να την δοκιμάσω το συντομότερο δυνατό",
+             "fr":"Quand j’entend parler d’une nouvelle technologie, je veux l’essayer le plus vite possible"
+          }
+       },
+       { 
+          "key":"i_try_innovations_earlier",
+          "text":{ 
+             "en":"In comparison to my friends / family, I’m used to try out the innovations earlier",
+             "it":"Rispetto ai miei amici / familiari, sono abituato a provare le innovazioni in anticipo",
+             "el":"Σε σύγκριση με τους φίλους / την οικογένειά μου, είμαι εξοικειωμένος με το να δοκιμάζω καινοτόμες εφαρμογές",
+             "fr":"J’essaye les nouveautés plus rapidement que mes amis ou ma famille"
+          }
+       },
+       { 
+          "key":"if_they_improve_daily_life",
+          "text":{ 
+             "en":"I use the technologies when they improve my daily life",
+             "it":"Uso le tecnologie quando migliorano la mia vita quotidiana",
+             "el":"Χρησιμοποιώ τις νέες τεχνολογίες όταν αυτές βελτιώνουν την καθημερινότητά μου",
+             "fr":"J’utilise les technologies qui améliorent ma vie quotidienne"
+          }
+       },
+       { 
+          "key":"iam_reluctant_to_new_technologies",
+          "text":{ 
+             "en":"In general, I am reluctant to try new products and services",
+             "it":"In generale, sono riluttante a provare nuovi prodotti e servizi",
+             "el":"Γενικά, είμαι απρόθυμος να δοκιμάζω νέα προϊόντα και υπηρεσίες",
+             "fr":"En général, je suis réticent pour essayer de nouveaux produits ou services"
+          }
+       },
+       { 
+          "key":"i_worry_introduce_novelty",
+          "text":{ 
+             "en":"I worry to introduce novelty in my routines and environment",
+             "it":"Introdurre novità tecnologiche nella mia routine e nel mio ambiente mi preoccupa e cerco di evitarlo",
+             "el":"Ανησυχώ για την εισαγωγή της καινοτομίας στην καθημερινότητά μου",
+             "fr":"Je n’aime pas introduire trop de nouveauté dans mes habitudes et mon environnement"
+          }
+       }
+    ]
+ }

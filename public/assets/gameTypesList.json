@@ -1,0 +1,171 @@
+{
+   "title": {
+      "en": "What are your favorite types of games?",
+      "it": "Quali sono i tipi di giochi che preferisci?",
+      "el": "Ποιος είναι ο αγαπημένος σας τύπος παιχνιδιών",
+      "fr":"Quels sont vos types de jeux préférés?"
+   },
+   "dontUseKey": "i_dont_play_games",
+   "keyValueArray": [
+      {
+         "key": "i_dont_play_games",
+         "text": {
+            "en": "I don't play games",
+            "it": "Nessun tipo di gioco",
+            "el": "Δεν παίζω παιχνίδια",
+            "fr":"Je ne joue pas"
+         },
+         "exclusive": true
+      },
+      {
+         "key": "card_games",
+         "text": {
+            "en": "Card games (examples: UNO, Rummy, Solitaire)",
+            "it": "Giochi di carte (esempi: UNO, Rummy, Solitario)",
+            "el": "Παιχνίδια καρτών",
+            "fr":"Jeux de cartes"
+         },
+         "exclusive": false
+      },
+      {
+         "key": "table_games",
+         "text": {
+            "en": "Table games (examples: Blackjack, Poker, Roulette)",
+            "it": "Giochi da tavolo (es. Blackjack, Poker, Roulette)",
+            "el": "Επιτραπέζια",
+            "fr":"Jeux de plateau"
+         },
+         "exclusive": false
+      },
+      {
+         "key": "sport_games",
+         "text": {
+            "en": "Sport games (examples: Basketball, Volleyball, Baseball)",
+            "it": "Giochi sportivi (es. Basket, Pallavolo, Baseball)",
+            "el": "Αθλήματα",
+            "fr":"Jeux de sport"
+         },
+         "exclusive": false
+      },
+      {
+         "key": "role_playing_games",
+         "text": {
+            "en": "Role playing games (examples: Fallout, The Witcher)",
+            "it": "Giochi di ruolo (es. Fallout, The Witcher)",
+            "el": "Παιχνίδια ρόλων",
+            "fr":"Jeux de rôle"
+         },
+         "exclusive": false
+      },
+      {
+         "key": "mmo_games",
+         "text": {
+            "en": "Massively Multiplayer Games (examples: WOW, Ultima Online, The Elder Scrolls, WOT)",
+            "it": "Giochi multi-player massivi (es. WOW, Ultima online, The elder Scrolls, WOT)",
+            "el": "Ομαδικά παιχνίδια",
+            "fr":"Jeux massivement multijoueurs"
+         },
+         "exclusive": false
+      },
+      {
+         "key": "casual_games",
+         "text": {
+            "en": "Casual video games (examples: Papers Please, Limbo)",
+            "it": "Rompicapo (es. Paper please, Limbo)",
+            "el": "Βιντεοπαιχνίδια",
+            "fr":"Jeux vidéo casual"
+         },
+         "exclusive": false
+      },
+      {
+         "key": "strategy_games",
+         "text": {
+            "en": "Strategy video games (examples: Risk, Chess, age of empires)",
+            "it": "Videogiochi di strategia (es. Risk, Chess, Age of Empire)",
+            "el": "Βιντεοπαιχνίδια στρατηγικής",
+            "fr":"Jeux vidéo stratégiques"
+         },
+         "exclusive": false
+      },
+      {
+         "key": "racing_games",
+         "text": {
+            "en": "Racing video games (examples: Street road, Gran Turismo, Mario Kart)",
+            "it": "Videogiochi di corse (es. Street road, Gran Turismo, Mario kart)",
+            "el": "Αγωνιστικά βιντεοπαιχνίδια",
+            "fr":"Jeux vidéo de course"
+         },
+         "exclusive": false
+      },
+      {
+         "key": "action_games",
+         "text": {
+            "en": "Action video games (examples: DOOM, Grand Theft Auto)",
+            "it": "Videogiochi d'azione (es. DOOM, Gran Theft Auto)",
+            "el": "Βιντεοπαιχνίδια δράσης",
+            "fr":"Jeux vidéo d’action"
+         },
+         "exclusive": false
+      },
+      {
+         "key": "adventure_games",
+         "text": {
+            "en": "Adventure video games (examples: Prey, Rust)",
+            "it": "Videogiochi d'avventura (es. Prey, Rust)",
+            "el": "Περιπέτεια βιντεοπαιχνίδια (παράδειγμα Prey, Rust)",
+            "fr":"Jeux vidéo d'aventure (exemples: Prey, Rust)"
+         },
+         "exclusive": false
+      },
+      {
+         "key": "indie_games",
+         "text": {
+            "en": "Indie Games (Iratus, Monster Boy, Thimbleweed park)",
+            "it": "Giochi indie (e. Iratus, Monster Boy, Thimbleweed Island)",
+            "el": "Παιχνίδια indie",
+            "fr":"Jeux indépendants"
+         },
+         "exclusive": false
+      },
+      {
+         "key": "retro_games",
+         "text": {
+            "en": "Retro video games ( Cuphead, The curse of Monkey Island)",
+            "it": "Videogiochi retro (es. Cuphead, The course of Monkey Island)",
+            "el": "Ρετρό βιντεοπαιχνίδια",
+            "fr":"Jeux vidéo rétro"
+         },
+         "exclusive": false
+      },
+      {
+         "key": "simulation_games",
+         "text": {
+            "en": "Simulation video games (examples: Euro Truck, Flight simulator)",
+            "it": "Videogiochi di simulazione (es. Euro Track, Flight simulator)",
+            "el": "Βιντεοπαιχνίδια προσομοίωσης",
+            "fr":"Jeux vidéo de simulation"
+         },
+         "exclusive": false
+      },
+      {
+         "key": "turn_games",
+         "text": {
+            "en": "Turn-based video games (Total War, Field or Glory:Empires)",
+            "it": "Videogiochi a turni (es. Total war, Filed of Glory Empires)",
+            "el": "Turn-based βιντεοπαιχνίδια",
+            "fr":"Jeux vidéo au tour par tour"
+         },
+         "exclusive": false
+      },
+      {
+         "key": "sandbox_games",
+         "text": {
+            "en": "Sandbox (examples: Red Dead Redemption, Assassin's Creed)",
+            "it": "Videogiochi di tipo sandbox (es. Red Dead Redemption, Assassin’s Creed)",
+            "el": "Τυπου sandbox",
+            "fr":"Jeux bac à sable"
+         },
+         "exclusive": false
+      }
+   ]
+}

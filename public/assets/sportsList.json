@@ -1,0 +1,1320 @@
+{
+   "title":{
+      "en":"Indicate the sport(s) you usually practice / you are a fan.",
+      "it":"Indicare lo sport che pratichi abitualmente / sei un fan.",
+      "el":"Υποδείξτε το άθλημα που ασκείτε συνήθως / είστε fan.",
+      "fr":"Indiquez le(s) sport(s) que vous pratiquez habituellement / vous êtes un fan."
+   },
+   "keyValueArray":[
+      {
+         "category":"None",
+         "key":"none",
+         "text":{
+            "en":"None / no sports",
+            "it":"Nessuna/o",
+            "el":"Κανένας",
+            "fr":"Aucun / pas de sport"
+         }
+      },
+      {
+         "category":"Adventure Sports",
+         "key":"kayaking",
+         "text":{
+            "en":"kayak/kayaking",
+            "it":"Kayak / kayak",
+            "el":"καγιάκ",
+            "fr":"kayak"
+         }
+      },
+      {
+         "category":"Adventure Sports",
+         "key":"bobsleigh",
+         "text":{
+            "en":"bobsleigh",
+            "it":"bob",
+            "el":"Έλκηθρο ",
+            "fr":"bobsleigh"
+         }
+      },
+      {
+         "category":"Adventure Sports",
+         "key":"canoeing",
+         "text":{
+            "en":"canoeing",
+            "it":"canoa",
+            "el":"Κανό ",
+            "fr":"canoë"
+         }
+      },
+      {
+         "category":"Adventure Sports",
+         "key":"cross_country_skiing",
+         "text":{
+            "en":"cross-country skiing",
+            "it":"sci di fondo",
+            "el":"Σκι ",
+            "fr":"ski de fond"
+         }
+      },
+      {
+         "category":"Adventure Sports",
+         "key":"rafting",
+         "text":{
+            "en":"rafting",
+            "it":"rafting",
+            "el":"rafting",
+            "fr":"rafting"
+         }
+      },
+      {
+         "category":"Adventure Sports",
+         "key":"skeleton",
+         "text":{
+            "en":"skeleton",
+            "it":"scheletro",
+            "el":"skeleton",
+            "fr":"skeleton"
+         }
+      },
+      {
+         "category":"Adventure Sports",
+         "key":"skibobbing",
+         "text":{
+            "en":"skibobbing",
+            "it":"bob",
+            "el":"skibobbing",
+            "fr":"skibobbing"
+         }
+      },
+      {
+         "category":"Adventure Sports",
+         "key":"surfing",
+         "text":{
+            "en":"surfing/surf",
+            "it":"Surf / Surf",
+            "el":"surfing/surf",
+            "fr":"surf"
+         }
+      },
+      {
+         "category":"Aquatic Sports",
+         "key":"snorkeling",
+         "text":{
+            "en":"snorkeling",
+            "it":"lo snorkeling",
+            "el":"snorkeling",
+            "fr":"plongée en apnée"
+         }
+      },
+      {
+         "category":"Aquatic Sports",
+         "key":"swimming",
+         "text":{
+            "en":"swimming",
+            "it":"nuoto",
+            "el":"κολύμβηση",
+            "fr":"natation"
+         }
+      },
+      {
+         "category":"Aquatic Sports",
+         "key":"bodyboarding",
+         "text":{
+            "en":"bodyboarding",
+            "it":"bodyboard",
+            "el":"bodyboarding",
+            "fr":"bodyboard"
+         }
+      },
+      {
+         "category":"Aquatic Sports",
+         "key":"diving",
+         "text":{
+            "en":"diving",
+            "it":"immersione",
+            "el":"κατάδυση",
+            "fr":"plongée"
+         }
+      },
+      {
+         "category":"Aquatic Sports",
+         "key":"freediving",
+         "text":{
+            "en":"freediving",
+            "it":"apnea",
+            "el":"ελεύθερη κατάδυση",
+            "fr":"plongée libre"
+         }
+      },
+      {
+         "category":"Aquatic Sports",
+         "key":"paddleboarding",
+         "text":{
+            "en":"paddleboarding",
+            "it":"paddleboarding",
+            "el":"paddleboarding",
+            "fr":"planche à bras"
+         }
+      },
+      {
+         "category":"Aquatic Sports",
+         "key":"rowing",
+         "text":{
+            "en":"rowing",
+            "it":"canottaggio",
+            "el":"rowing",
+            "fr":"aviron"
+         }
+      },
+      {
+         "category":"Aquatic Sports",
+         "key":"scuba diving",
+         "text":{
+            "en":"scuba diving",
+            "it":"immersioni in subacquea",
+            "el":"scuba κατάδυση",
+            "fr":"plongée sous-marine"
+         }
+      },
+      {
+         "category":"Aquatic Sports",
+         "key":"synchronized_swimming",
+         "text":{
+            "en":"synchronized swimming",
+            "it":"nuoto sincronizzato",
+            "el":"Συγχρονισμένη κολύμβηση",
+            "fr":"natation synchronisée"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"aerobics",
+         "text":{
+            "en":"aerobics",
+            "it":"aerobica",
+            "el":"aerobics",
+            "fr":"aérobic"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"aikido",
+         "text":{
+            "en":"aikido",
+            "it":"aikido",
+            "el":"aikido",
+            "fr":"aikido"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"archery",
+         "text":{
+            "en":"archery",
+            "it":"tiro con l'arco",
+            "el":"archery",
+            "fr":"tir à l’arc"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"artistic_gymnastics",
+         "text":{
+            "en":"artistic gymnastics",
+            "it":"ginnastica aerartistica",
+            "el":"artistic gymnastics",
+            "fr":"gymnastique artistique"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"baton_twirling",
+         "text":{
+            "en":"baton twirling",
+            "it":"bacchetta roteare",
+            "el":"Σφαίρα ",
+            "fr":"twirling baton"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"bodybuilding",
+         "text":{
+            "en":"bodybuilding",
+            "it":"bodybuilding",
+            "el":"bodybuilding",
+            "fr":"musculation"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"boxing",
+         "text":{
+            "en":"boxing",
+            "it":"boxe",
+            "el":"μποξ",
+            "fr":"boxe"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"cross_country_equestrianism",
+         "text":{
+            "en":"cross-country equestrianism",
+            "it":"equitazione da fondo",
+            "el":"Ιπποδρομίες ανώμαλου δρόμου ",
+            "fr":"cross-country équestre"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"cross_country_running",
+         "text":{
+            "en":"cross-country running",
+            "it":"corsa campestre",
+            "el":"Αγώνες ανώμαλου δρόμου",
+            "fr":"cross-country"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"cycling",
+         "text":{
+            "en":"cycling",
+            "it":"Ciclismo",
+            "el":"Ποδηλασία ",
+            "fr":"cyclisme"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"discus_throw",
+         "text":{
+            "en":"discus throw",
+            "it":"lancio del disco",
+            "el":"Δισκοβολία ",
+            "fr":"lancer de disque"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"equestrianism",
+         "text":{
+            "en":"equestrianism",
+            "it":"equestrianism",
+            "el":"Ιππασία ",
+            "fr":"équitation"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"skating",
+         "text":{
+            "en":"skating",
+            "it":"pattinando",
+            "el":"skating",
+            "fr":"patinage"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"horse_racing",
+         "text":{
+            "en":"horse racing",
+            "it":"corsa di cavalli",
+            "el":"Ιπποδρομίες",
+            "fr":"courses de chevaux"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"judo",
+         "text":{
+            "en":"judo",
+            "it":"judo",
+            "el":"judo",
+            "fr":"judo"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"karate",
+         "text":{
+            "en":"karate",
+            "it":"karatè",
+            "el":"karate",
+            "fr":"karaté"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"kendo",
+         "text":{
+            "en":"kendo",
+            "it":"kendo",
+            "el":"kendo",
+            "fr":"kendo"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"kickboxing",
+         "text":{
+            "en":"kickboxing",
+            "it":"kickboxing",
+            "el":"kickboxing",
+            "fr":"kickboxing"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"kungfu",
+         "text":{
+            "en":"kung fu",
+            "it":"kung fu",
+            "el":"kung fu",
+            "fr":"kung fu"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"long_jump",
+         "text":{
+            "en":"long jump",
+            "it":"salto lungo",
+            "el":"Άλμα εις μήκος ",
+            "fr":"saut en longueur"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"marathon",
+         "text":{
+            "en":"marathon",
+            "it":"maratona",
+            "el":"Μαραθώνιος ",
+            "fr":"marathon"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"mixed_martial_arts",
+         "text":{
+            "en":"mixed martial arts",
+            "it":"arti marziali miste",
+            "el":"Πολεμικές τέχνες ",
+            "fr":"arts martiaux mixtes"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"muay_thai",
+         "text":{
+            "en":"Muay Thai",
+            "it":"Muay Thai",
+            "el":"Muay Thai",
+            "fr":"Muay Thai"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"pole_vault",
+         "text":{
+            "en":"pole vault",
+            "it":"salto con l'asta",
+            "el":"Άλμα επί κοντό ",
+            "fr":"saut à la perche"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"powerlifting",
+         "text":{
+            "en":"powerlifting",
+            "it":"powerlifting",
+            "el":"powerlifting",
+            "fr":"force athlétique"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"racewalking",
+         "text":{
+            "en":"racewalking",
+            "it":"racewalking",
+            "el":"Ποδηλασία κλειστού γηπέδου ",
+            "fr":"marche athlétique"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"rhythmic_gymnastics",
+         "text":{
+            "en":"rhythmic gymnastics",
+            "it":"ginnastica ritmica",
+            "el":"Ρυθμική γυμναστική ",
+            "fr":"gymnastique rythmique"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"sprint",
+         "text":{
+            "en":"sprint",
+            "it":"sprint",
+            "el":"sprint",
+            "fr":"sprint"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"sumo",
+         "text":{
+            "en":"sumo",
+            "it":"sumo",
+            "el":"sumo",
+            "fr":"sumo"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"sword_fighting",
+         "text":{
+            "en":"sword-fighting",
+            "it":"combattimento con la spada",
+            "el":"Ξιφομαχία ",
+            "fr":"combat à l’épée"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"trail_running",
+         "text":{
+            "en":"trail running",
+            "it":"trail running",
+            "el":"τρέξιμο σε ορεινές διαδρομές",
+            "fr":"trail"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"trampolining",
+         "text":{
+            "en":"trampolining",
+            "it":"trampolining",
+            "el":"Τραμπολίνο ",
+            "fr":"trampoline"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"tumbling",
+         "text":{
+            "en":"tumbling",
+            "it":"burattatura",
+            "el":"Πτώση ",
+            "fr":"tumbling"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"ultimate",
+         "text":{
+            "en":"ultimate",
+            "it":"finale",
+            "el":"ultimate",
+            "fr":"ultimate"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"walking",
+         "text":{
+            "en":"walking",
+            "it":"a piedi",
+            "el":"Περπάτημα ",
+            "fr":"marche"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"weightlifting",
+         "text":{
+            "en":"weightlifting",
+            "it":"sollevamento pesi",
+            "el":"Άρση βαρών ",
+            "fr":"haltérophilie"
+         }
+      },
+      {
+         "category":"Strength and Agility Sports",
+         "key":"wrestling",
+         "text":{
+            "en":"wrestling",
+            "it":"lotta",
+            "el":"Πάλη ",
+            "fr":"lutte"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"baseball",
+         "text":{
+            "en":"baseball",
+            "it":"baseball",
+            "el":"baseball",
+            "fr":"base-ball"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"basketball",
+         "text":{
+            "en":"basketball",
+            "it":"pallacanestro",
+            "el":"Μπάσκετ ",
+            "fr":"basket-ball"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"tennis",
+         "text":{
+            "en":"tennis",
+            "it":"tennis",
+            "el":"Τέννις ",
+            "fr":"tennis"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"badminton",
+         "text":{
+            "en":"badminton",
+            "it":"badminton",
+            "el":"badminton",
+            "fr":"badminton"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"bowling",
+         "text":{
+            "en":"bowling",
+            "it":"bowling",
+            "el":"bowling",
+            "fr":"bowling"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"cricket",
+         "text":{
+            "en":"cricket",
+            "it":"cricket",
+            "el":"cricket",
+            "fr":"cricket"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"curling",
+         "text":{
+            "en":"curling",
+            "it":"arricciatura",
+            "el":"curling",
+            "fr":"curling"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"dodgeball",
+         "text":{
+            "en":"dodgeball",
+            "it":"dodgeball",
+            "el":"dodgeball",
+            "fr":"dodgeball"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"football",
+         "text":{
+            "en":"football",
+            "it":"calcio",
+            "el":"Ποδόσφαιρο ",
+            "fr":"football américain"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"golf",
+         "text":{
+            "en":"golf",
+            "it":"golf",
+            "el":"golf",
+            "fr":"golf"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"hockey",
+         "text":{
+            "en":"hockey",
+            "it":"hockey",
+            "el":"hockey",
+            "fr":"hockey"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"horseball",
+         "text":{
+            "en":"horseball",
+            "it":"Horseball",
+            "el":"horseball ",
+            "fr":"horse-ball"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"hurling",
+         "text":{
+            "en":"hurling",
+            "it":"lancio",
+            "el":"hurling",
+            "fr":"hurling"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"ice_hockey",
+         "text":{
+            "en":"ice hockey",
+            "it":"hockey su ghiaccio",
+            "el":"ice hockey",
+            "fr":"hockey sur glace"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"lacrosse",
+         "text":{
+            "en":"lacrosse",
+            "it":"lacrosse",
+            "el":"lacrosse",
+            "fr":"lacrosse"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"paddle",
+         "text":{
+            "en":"paddle",
+            "it":"pagaia",
+            "el":"paddle",
+            "fr":"paddle"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"polo",
+         "text":{
+            "en":"polo",
+            "it":"polo",
+            "el":"πόλο",
+            "fr":"polo"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"racquetball",
+         "text":{
+            "en":"racquetball",
+            "it":"Racquetball",
+            "el":"Ρακέτες",
+            "fr":"racquetball"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"rinkball",
+         "text":{
+            "en":"rinkball",
+            "it":"rinkball",
+            "el":"rinkball",
+            "fr":"rinkball"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"rounders",
+         "text":{
+            "en":"rounders",
+            "it":"rounders",
+            "el":"rounders",
+            "fr":"rounders"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"rugby",
+         "text":{
+            "en":"rugby",
+            "it":"Rugby",
+            "el":"rugby",
+            "fr":"rugby"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"soccer",
+         "text":{
+            "en":"soccer",
+            "it":"calcio",
+            "el":"soccer",
+            "fr":"football"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"softball",
+         "text":{
+            "en":"softball",
+            "it":"softball",
+            "el":"softball",
+            "fr":"softball"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"squash",
+         "text":{
+            "en":"squash",
+            "it":"schiacciare",
+            "el":"squash",
+            "fr":"squash"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"table_tennis",
+         "text":{
+            "en":"table tennis",
+            "it":"tennis da tavolo",
+            "el":"Βόλλευ ",
+            "fr":"tennis de table"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"unicycling_basketball",
+         "text":{
+            "en":"unicycling basketball",
+            "it":"basket in bicicletta",
+            "el":"Πινγκ πονγκ ",
+            "fr":"mono-basket"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"unicycling_handball",
+         "text":{
+            "en":"unicycling handball",
+            "it":"pallamano in bicicletta",
+            "el":"unicycling basketball",
+            "fr":"mono-hand"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"unicycling_hockey",
+         "text":{
+            "en":"unicycling hockey",
+            "it":"hockey in bicicletta",
+            "el":"unicycling handball",
+            "fr":"mono-hockey"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"volleyball",
+         "text":{
+            "en":"volleyball",
+            "it":"pallavolo",
+            "el":"unicycling hockey",
+            "fr":"mono-volley"
+         }
+      },
+      {
+         "category":"Ball Sports",
+         "key":"water_polo",
+         "text":{
+            "en":"water polo",
+            "it":"pallanuoto",
+            "el":"water πόλο",
+            "fr":"water polo"
+         }
+      },
+      {
+         "category":"Extreme Sports",
+         "key":"base_jumping",
+         "text":{
+            "en":"BASE jumping",
+            "it":"BASE jumping",
+            "el":"BASE jumping",
+            "fr":"BASE jump"
+         }
+      },
+      {
+         "category":"Extreme Sports",
+         "key":"abseiling",
+         "text":{
+            "en":"abseiling",
+            "it":"discesa in corda doppia",
+            "el":"abseiling",
+            "fr":"descente en rappel"
+         }
+      },
+      {
+         "category":"Extreme Sports",
+         "key":"bouldering",
+         "text":{
+            "en":"bouldering",
+            "it":"bouldering",
+            "el":"bouldering",
+            "fr":"escalade de bloc"
+         }
+      },
+      {
+         "category":"Extreme Sports",
+         "key":"gliding",
+         "text":{
+            "en":"gliding",
+            "it":"volo",
+            "el":"Ανεμόπλοιο",
+            "fr":"vol à voile"
+         }
+      },
+      {
+         "category":"Extreme Sports",
+         "key":"kiteboarding",
+         "text":{
+            "en":"kiteboarding",
+            "it":"kiteboarding",
+            "el":"kiteboarding",
+            "fr":"kiteboard"
+         }
+      },
+      {
+         "category":"Extreme Sports",
+         "key":"kitesurfing",
+         "text":{
+            "en":"kitesurfing",
+            "it":"kitesurf",
+            "el":"kitesurfing",
+            "fr":"kitesurf"
+         }
+      },
+      {
+         "category":"Extreme Sports",
+         "key":"parachuting",
+         "text":{
+            "en":"parachuting",
+            "it":"paracadutismo",
+            "el":"parachuting",
+            "fr":"parachute"
+         }
+      },
+      {
+         "category":"Extreme Sports",
+         "key":"paragliding",
+         "text":{
+            "en":"paragliding",
+            "it":"parapendio",
+            "el":"Αλεξίπτωτο ",
+            "fr":"parapente"
+         }
+      },
+      {
+         "category":"Extreme Sports",
+         "key":"parasailing",
+         "text":{
+            "en":"parasailing",
+            "it":"parasailing",
+            "el":"parasailing",
+            "fr":"Parachute ascensionnel"
+         }
+      },
+      {
+         "category":"Extreme Sports",
+         "key":"skateboarding",
+         "text":{
+            "en":"skateboarding",
+            "it":"andare con lo skateboard",
+            "el":"skateboarding",
+            "fr":"skateboard"
+         }
+      },
+      {
+         "category":"Extreme Sports",
+         "key":"skydiving",
+         "text":{
+            "en":"skydiving",
+            "it":"paracadutismo",
+            "el":"skydiving",
+            "fr":"saut en parachute"
+         }
+      },
+      {
+         "category":"Extreme Sports",
+         "key":"skysurfing",
+         "text":{
+            "en":"skysurfing",
+            "it":"skysurfing",
+            "el":"skysurfing",
+            "fr":"skysurf"
+         }
+      },
+      {
+         "category":"Extreme Sports",
+         "key":"snowboarding",
+         "text":{
+            "en":"snowboarding",
+            "it":"snowboard",
+            "el":"snowboarding",
+            "fr":"snowboard"
+         }
+      },
+      {
+         "category":"Extreme Sports",
+         "key":"wakeboarding",
+         "text":{
+            "en":"wakeboarding",
+            "it":"wakeboard",
+            "el":"wakeboarding",
+            "fr":"wakeboard"
+         }
+      },
+      {
+         "category":"Extreme Sports",
+         "key":"windsurfing",
+         "text":{
+            "en":"windsurfing",
+            "it":"windsurf",
+            "el":"windsurfing",
+            "fr":"planche à voile"
+         }
+      },
+      {
+         "category":"Mountain Sports",
+         "key":"climbing",
+         "text":{
+            "en":"climbing",
+            "it":"arrampicata",
+            "el":"Αναρρίχηση ",
+            "fr":"escalade"
+         }
+      },
+      {
+         "category":"Mountain Sports",
+         "key":"cross_country_cycling",
+         "text":{
+            "en":"cross-country cycling",
+            "it":"ciclismo di fondo",
+            "el":"Ποδηλασία ανώμαλου δρόμου ",
+            "fr":"VTT cross-country"
+         }
+      },
+      {
+         "category":"Mountain Sports",
+         "key":"hiking",
+         "text":{
+            "en":"hiking",
+            "it":"escursioni a piedi",
+            "el":"Πεζοπορία ",
+            "fr":"randonnée"
+         }
+      },
+      {
+         "category":"Mountain Sports",
+         "key":"mountaineering",
+         "text":{
+            "en":"mountaineering",
+            "it":"alpinismo",
+            "el":"Ορειβασία",
+            "fr":"alpinisme"
+         }
+      },
+      {
+         "category":"Motorised Sports",
+         "key":"drifting",
+         "text":{
+            "en":"drifting",
+            "it":"alla deriva",
+            "el":"drifting",
+            "fr":"drift"
+         }
+      },
+      {
+         "category":"Motorised Sports",
+         "key":"formula_racing",
+         "text":{
+            "en":"formula racing",
+            "it":"formula da corsa",
+            "el":"Αγώνες φόρμουλα ",
+            "fr":"formule"
+         }
+      },
+      {
+         "category":"Motorised Sports",
+         "key":"kart_racing",
+         "text":{
+            "en":"kart racing",
+            "it":"corse di kart",
+            "el":"Αγώνες καρτ ",
+            "fr":"karting"
+         }
+      },
+      {
+         "category":"Motorised Sports",
+         "key":"rallycross",
+         "text":{
+            "en":"rallycross",
+            "it":"rallycross",
+            "el":"Ράλλυ ",
+            "fr":"rallycross"
+         }
+      },
+      {
+         "category":"Motorised Sports",
+         "key":"motocross",
+         "text":{
+            "en":"motocross",
+            "it":"motocross",
+            "el":"motocross",
+            "fr":"motocross"
+         }
+      },
+      {
+         "category":"Motorised Sports",
+         "key":"superbike",
+         "text":{
+            "en":"superbike",
+            "it":"superbike",
+            "el":"superbike",
+            "fr":"superbike"
+         }
+      },
+      {
+         "category":"Motorised Sports",
+         "key":"car_racing",
+         "text":{
+            "en":"car racing",
+            "it":"corse automobilistiche",
+            "el":"Αγώνες δρόμου ",
+            "fr":"courses de voitures"
+         }
+      },
+      {
+         "category":"Motorised Sports",
+         "key":"automobile_racing",
+         "text":{
+            "en":"automobile racing",
+            "it":"corse automobilistiche",
+            "el":"Αγώνες αγωνιστικού αυτοκινήτου ",
+            "fr":"course automobile"
+         }
+      },
+      {
+         "category":"Mind Sports",
+         "key":"checkers",
+         "text":{
+            "en":"checkers",
+            "it":"dama",
+            "el":"Ντάμα ",
+            "fr":"jeu de dames"
+         }
+      },
+      {
+         "category":"Mind Sports",
+         "key":"poker",
+         "text":{
+            "en":"poker",
+            "it":"poker",
+            "el":"poker",
+            "fr":"poker"
+         }
+      },
+      {
+         "category":"Mind Sports",
+         "key":"chess",
+         "text":{
+            "en":"chess",
+            "it":"scacchi",
+            "el":"Σκάκι ",
+            "fr":"échecs"
+         }
+      },
+      {
+         "category":"Mind Sports",
+         "key":"risk",
+         "text":{
+            "en":"risk",
+            "it":"rischio",
+            "el":"risk",
+            "fr":"risk"
+         }
+      },
+      {
+         "category":"Mind Sports",
+         "key":"card_games",
+         "text":{
+            "en":"card games",
+            "it":"giochi di carte",
+            "el":"Χαρτοπαίγνια ",
+            "fr":"jeux de cartes"
+         }
+      },
+      {
+         "category":"E Sports",
+         "key":"esports",
+         "text":{
+            "en":"e-sports / esports / video games",
+            "it":"e-sport / sport / videogiochi",
+            "el":"e-sports / esports / video games",
+            "fr":"e-sports / esports / jeux vidéos"
+         }
+      },
+      {
+         "category":"Sport Activities",
+         "key":"airsoft",
+         "text":{
+            "en":"airsoft",
+            "it":"airsoft",
+            "el":"Αεροβόλο ",
+            "fr":"airsoft"
+         }
+      },
+      {
+         "category":"Sport Activities",
+         "key":"aquathlon",
+         "text":{
+            "en":"aquathlon",
+            "it":"Aquathlon",
+            "el":"Υδατοσφαίριση ",
+            "fr":"aquathlon"
+         }
+      },
+      {
+         "category":"Sport Activities",
+         "key":"ballooning",
+         "text":{
+            "en":"ballooning",
+            "it":"mongolfiera",
+            "el":"Αερόστατο ",
+            "fr":"montgolfière"
+         }
+      },
+      {
+         "category":"Sport Activities",
+         "key":"barrel racing",
+         "text":{
+            "en":"barrel racing",
+            "it":"corsa in botte",
+            "el":"barrel racing",
+            "fr":"barrel racing"
+         }
+      },
+      {
+         "category":"Sport Activities",
+         "key":"athlon",
+         "text":{
+            "en":"biathlon / duathlon / triathlon / decathlon",
+            "it":"biathlon / duathlon / triathlon / decathlon",
+            "el":"biathlon / duathlon / triathlon / decathlon",
+            "fr":"biathlon / duathlon / triathlon / decathlon"
+         }
+      },
+      {
+         "category":"Sport Activities",
+         "key":"capoeira",
+         "text":{
+            "en":"capoeira",
+            "it":"capoeira",
+            "el":"capoeira",
+            "fr":"capoeira"
+         }
+      },
+      {
+         "category":"Sport Activities",
+         "key":"cheerleading",
+         "text":{
+            "en":"cheerleading",
+            "it":"cheerleading",
+            "el":"cheerleading",
+            "fr":"cheerleading"
+         }
+      },
+      {
+         "category":"Sport Activities",
+         "key":"crossfit",
+         "text":{
+            "en":"CrossFit",
+            "it":"CrossFit",
+            "el":"CrossFit",
+            "fr":"CrossFit"
+         }
+      },
+      {
+         "category":"Sport Activities",
+         "key":"dancing",
+         "text":{
+            "en":"dancing",
+            "it":"danza",
+            "el":"Χορός ",
+            "fr":"danse"
+         }
+      },
+      {
+         "category":"Sport Activities",
+         "key":"darts",
+         "text":{
+            "en":"darts",
+            "it":"freccette",
+            "el":"Τοξοβολία ",
+            "fr":"fléchettes"
+         }
+      },
+      {
+         "category":"Sport Activities",
+         "key":"jogging",
+         "text":{
+            "en":"jogging",
+            "it":"jogging",
+            "el":"jogging",
+            "fr":"jogging"
+         }
+      },
+      {
+         "category":"Sport Activities",
+         "key":"parkour",
+         "text":{
+            "en":"parkour",
+            "it":"parkour",
+            "el":"parkour",
+            "fr":"parkour"
+         }
+      },
+      {
+         "category":"Sport Activities",
+         "key":"pool_petanque_bowling",
+         "text":{
+            "en":"pool / petanque / bowling",
+            "it":"piscina / bocce / bowling",
+            "el":"pool / petanque / bowling",
+            "fr":"billard / pétanque / bowling"
+         }
+      }
+   ]
+}

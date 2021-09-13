@@ -1,0 +1,37 @@
+{ 
+	"title":{ 
+	   "en":"Which type of organization you work for?",
+	   "it":"In che tipo di organizzazione lavori?",
+	   "el":"Σε τι τύπο οργανισμού εργάζεστε;",
+	   "fr":"Pour quel type d’organisation travaillez-vous présentement?"
+	},
+	"keyValueArray":[ 
+	   { 
+		  "key":"local_public_administration",
+		  "text":{ 
+			 "en":"Local Public Administration",
+			 "it":"Pubblica amministrazione",
+			 "el":"Δημόσια Διοίκηση",
+			 "fr":"Administration publique"
+		  }
+	   },
+	   { 
+		  "key":"ong",
+		  "text":{ 
+			 "en":"ONG",
+			 "it":"ONG",
+			 "el":"Ιδιωτικός Τομέας",
+			 "fr":"ONG"
+		  }
+	   },
+	   { 
+		  "key":"association",
+		  "text":{ 
+			 "en":"Association",
+			 "it":"Associazione",
+			 "el":"Οργανισμός/Σύλλογος",
+			 "fr":"Association"
+		  }
+	   }
+	]
+ }

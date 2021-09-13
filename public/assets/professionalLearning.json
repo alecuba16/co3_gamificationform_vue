@@ -1,0 +1,81 @@
+{ 
+    "title":{ 
+       "en":"What are your favorite online learning services?",
+       "it":"Quali sono i canali di aggiornamento che preferisci?",
+       "el":"Ποιες είναι οι αγαπημένες σας ηλεκτρονικές υπηρεσίες μάθησης;",
+       "fr":"Quels sont les services numériques éducatifs que vous préférez ?"
+    },
+    "dontUseKey":"i_dont_use",
+    "keyValueArray":[ 
+       { 
+          "key":"i_dont_use",
+          "text":{ 
+             "en":"I don't use",
+             "it":"Non ne utilizzo",
+             "el":"Δε χρησιμοποιώ",
+             "fr":"Je n’en utilise pas"
+          },
+          "exclusive":true
+       },
+       { 
+          "key":"ted_talks",
+          "text":{ 
+             "en":"Ted Talks",
+             "it":"Ted Talks",
+             "el":"Ομιλίες Ted",
+             "fr":"Les conférences TED"
+          },
+          "exclusive":false
+       },
+       { 
+          "key":"courses_online",
+          "text":{ 
+             "en":"Courses online",
+             "it":"Corsi online",
+             "el":"Online μαθήματα",
+             "fr":"les cours en ligne"
+          },
+          "exclusive":false
+       },
+       { 
+          "key":"moocs",
+          "text":{ 
+             "en":"MOOC (Massive Online Open Courses)",
+             "it":"MOOC (Massive Online Open Courses)",
+             "el":"MOOCs (Μαζικά Ανοιχτά Μαθήματα Online)",
+             "fr":"Les MOOCs"
+          },
+          "exclusive":false
+       },
+       { 
+          "key":"educational_medical_platforms",
+          "text":{ 
+             "en":"Educational Medical Platforms",
+             "it":"Piattaforme mediche educative",
+             "el":"Εκπαιδευτικές ιατρικές πλατφόρμες",
+             "fr":"Les plateformes médicales"
+          },
+          "exclusive":false
+       },
+       { 
+          "key":"subscriptions_academic_platforms",
+          "text":{ 
+             "en":"Subscriptions to Academic Platforms",
+             "it":"Piattaforme universitarie",
+             "el":"Δημοσιεύσεις στο διαδίκτυο",
+             "fr":"Les plateformes d’universités"
+          },
+          "exclusive":false
+       },
+       { 
+          "key":"publications_online",
+          "text":{ 
+             "en":"Publications online",
+             "it":"Pubblicazioni online",
+             "el":"Δε χρησιμοποιώ",
+             "fr":"Les publications en ligne"
+          },
+          "exclusive":false
+       }
+    ]
+ }

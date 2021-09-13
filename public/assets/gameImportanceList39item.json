@@ -1,0 +1,486 @@
+{
+  "title": {
+    "en": "Please rate how important each of the following game play elements is to you when play games?",
+    "it": "Si prega di valutare l'importanza che ciascuno dei seguenti elementi di gioco è importante per te quando giochi?",
+    "el": "Παρακαλείσθε να αξιολογήσετε πόσο σημαντικό είναι το καθένα από τα παρακάτω στοιχεία παιχνιδιού για εσάς όταν παίζετε παιχνίδια;",
+    "fr": "Veuillez évaluer l'importance que vous accordez à chacun des éléments de jeu suivants lorsque vous jouez à des jeux en ligne?",
+    "es": "Califica la importancia que tiene cada uno de los siguientes elementos de juego cuando juegas"
+  },
+  "scale_title": {
+    "en": "( 0 = Not Important / Never / Not Enjoyable , 5 = Important / Always / Enjoyable )",
+    "it": "( 0 = Non Importante / Mai / Non piacevole , 5 = Importante / Sempre / Piacevole )",
+    "el": "( 0 = ΟΧΙ σημαντικο / Ποτέ / Δεν είναι ευχάριστο , 5 = Σημαντικό / Πάντα / Απολαυστικός )",
+    "fr": "( 0 = Pas Importante / Jamais / Pas agréable , 5 = Important / Toujours / Agréable )",
+    "es": "( 0 = No es importante / Nunca / No es agradable, 5 = Importante / Siempre / Es agradable)"
+  },
+  "keyValueArray": [
+    {
+      "key": "game_importance_precise_game_mechanics",
+      "keyNickYee": "Q1",
+      "value": 0,
+      "text": {
+        "en": "How interested are you in the precise numbers and percentages underlying the game mechanics?",
+        "it": "Conoscere i numeri e le percentuali alla base della meccanica di un gioco?",
+        "el": "Πόσο σε ενδιαφέρουν οι ακριβείς αριθμοί και τα στατιστικά στα παιχνίδια;",
+        "fr": "Dans quelle mesure êtes-vous intéressé par les chiffres et les pourcentages derrière les mécanismes de jeu ?",
+        "es": "¿Qué tan interesado estás en los números y porcentajes precisos que subyacen a la mecánica de un juego?"
+      }
+    },
+    {
+      "key": "game_importance_character_optimized",
+      "keyNickYee": "Q2",
+      "value": 0,
+      "text": {
+        "en": "How important is it to you that your character is as optimized as possible for their profession / role?",
+        "it": "Il personaggio e l’ottimizzazione del suo ruolo?",
+        "el": "Πόσο σημαντικό είναι ο χαρακτήρας σου στο παιχνίδι να είναι όσο πιο βέλτιστος γίνεται για τον ρόλο του;",
+        "fr": "À quel point est-il important pour vous que votre personnage soit le plus optimisé possible pour son métier/rôle ?",
+        "es": "¿Qué tan importante es para ti que tu personaje esté lo más optimizado posible para su profesión / rol?"
+      }
+    },
+    {
+      "key": "game_importance_use_character_builder",
+      "keyNickYee": "Q3",
+      "value": 0,
+      "text": {
+        "en": "How often do you use a character builder? (0 never, 5 always)",
+        "it": "Quante volte usi un costruttore di personaggi (0 mai, 5 sempre)",
+        "el": "Πόσο συχνά χρησιμοποιείς έναν οδηγό δημιουργίας χαρακτήρα ή ένα πρότυπο για να ενισχύσεις τον χαρακτήρα σου; (0 ποτέ, 5 πάντα)",
+        "fr": "À quelle fréquence utilisez-vous un générateur de personnage (0 jamais, 5 tout le temps)",
+        "es": "¿Con qué frecuencia utilizas un creador de personajes? (0 nunca, 5 siempre)"
+      }
+    },
+    {
+      "key": "game_importance_grouped_soloing",
+      "keyNickYee": "Q4",
+      "value": 0,
+      "text": {
+        "en": "Would you rather be grouped (0) or soloing (5)?",
+        "it": "Preferisci essere raggruppato (0) o in solitaria (5)?",
+        "el": "Προτιμάς να είσαι σε ομάδα (0) ή μόνος/η (5);",
+        "fr": "Préférez-vous être en groupe (0) ou seul (5)?",
+        "es": "¿Prefieres estar en grupo (0) o solo (5)?"
+      }
+    },
+    {
+      "key": "game_importance_character_solo_well",
+      "keyNickYee": "Q5",
+      "value": 0,
+      "text": {
+        "en": "How important is it to you that your character can solo well?",
+        "it": "Quanto è importante per te che il tuo personaggio possa fare bene da solo?",
+        "el": "Πόσο σημαντικό είναι ο χαρακτήρας σου να είναι καλός μόνος του;",
+        "fr": "À quel point est-il important pour vous que votre personnage puisse avancer seul ?",
+        "es": "¿Qué tan importante es para ti que tu personaje pueda jugar solo?"
+      }
+    },
+    {
+      "key": "game_importance_enjoy_woking_with_others",
+      "keyNickYee": "Q6",
+      "value": 0,
+      "text": {
+        "en": "How much do you enjoy working with others in a group?",
+        "it": "Quanto ti piace lavorare con gli altri in gruppo?",
+        "el": "Πόσο πολύ διασκεδάζεις να παίζεις σε ομάδα;",
+        "fr": "À quel point aimez-vous travailler avec les autres membres de votre groupe ?",
+        "es": "¿Cuánto disfrutas trabajando con otros en grupo?"
+      }
+    },
+    {
+      "key": "game_importance_wellknown_in_game",
+      "keyNickYee": "Q7",
+      "value": 0,
+      "text": {
+        "en": "How important is it to you to be wellknown in the game?",
+        "it": "Quanto è importante per te essere conosciuto nel gioco?",
+        "el": "Πόσο σημαντικό είναι να είσαι περιζήτητος στο παιχνίδι;",
+        "fr": "À quel point est-il important pour vous d’avoir une bonne réputation au sein d’un jeu ?",
+        "es": "¿Qué tan importante es para ti ser conocido en el juego?"
+      }
+    },
+    {
+      "key": "game_importance_time_customizing_character",
+      "keyNickYee": "Q8",
+      "value": 0,
+      "text": {
+        "en": "How much time do you spend customizing your character during character creation?",
+        "it": "Quanto tempo passi a personalizzare il tuo personaggio durante la creazione del personaggio?",
+        "el": "Πόσο χρόνο περνάς στην προσαρμογή του χαρακτήρα σου κατά την δημιουργία χαρακτήρα;",
+        "fr": "Combien de temps passez-vous à personnaliser votre personnage pendant sa création ?",
+        "es": "¿Cuánto tiempo pasas personalizando tu personaje durante la creación del personaje?"
+      }
+    },
+    {
+      "key": "game_importance_character_outfit_matches_style",
+      "keyNickYee": "Q9",
+      "value": 0,
+      "text": {
+        "en": "How important is it to you that your character's outfit matches in color and style?",
+        "it": "Quanto è importante per te che abito del tuo personaggio corrisponda nel colore e nello stile?",
+        "el": "Πόσο σημαντικό είναι η στολή/ενδυμασία του χαρακτήρα σου να ταιριάζει σε χρώμα και στυλ;",
+        "fr": "Quelle importance accordez-vous à la couleur et au style de tenue de votre personnage ?",
+        "es": "¿Qué tan importante es para ti que el atuendo de tu personaje coincida en color y estilo?"
+      }
+    },
+    {
+      "key": "game_importance_character_looks_different",
+      "keyNickYee": "Q10",
+      "value": 0,
+      "text": {
+        "en": "How important is it to you that your character looks different from other characters?",
+        "it": "Quanto è importante per te che il tuo personaggio sia diverso dagli altri personaggi?",
+        "el": "Πόσο σημαντικό είναι ο χαρακτήρας σου να διαφέρει από τους άλλους;",
+        "fr": "Quelle importance accordez-vous au fait de différencier votre personnage  des autres personnages ?",
+        "es": " ¿Qué tan importante es para ti que tu personaje se vea diferente de otros personajes?"
+      }
+    },
+    {
+      "key": "game_importance_explore_to_complete_the_world",
+      "keyNickYee": "Q11",
+      "value": 0,
+      "text": {
+        "en": "How much do you enjoy exploring the world just for the sake of exploring it?",
+        "it": "Quanto ti piace esplorare il mondo solo per il gusto di esplorarlo?",
+        "el": "Πόσο πολύ σου αρέσει να ανακαλύπτεις τον κόσμο;",
+        "fr": "À quel point appréciez-vous le fait d’explorer un monde juste pour le plaisir ?",
+        "es": " ¿Cuánto disfrutas explorando el mundo de juego solo por explorarlo?"
+      }
+    },
+    {
+      "key": "game_importance_finding_uncommon_quests_locations",
+      "keyNickYee": "Q12",
+      "value": 0,
+      "text": {
+        "en": "How much do you enjoy finding quests, or locations that most people do not know about?",
+        "it": "Quanto ti piace trovare missioni, o luoghi che la maggior parte delle persone non conoscono?",
+        "el": "Πόσο σου αρέσει να κάνεις έρευνες, να βρίσκεις τοποθεσίες που άλλοι δεν γνωρίζουν κτλ;",
+        "fr": "À quel point aimez-vous le fait de trouver des quêtes, rencontrer des PNJ ou découvrir des lieux inconnus de la plupart des joueurs ?",
+        "es": "¿Cuánto disfrutas encontrando misiones o ubicaciones que la mayoría de las personas desconocen?"
+      }
+    },
+    {
+      "key": "game_importance_collecting_distinctive_objects",
+      "keyNickYee": "Q13",
+      "value": 0,
+      "text": {
+        "en": "How much do you enjoy collecting distinctive objects or clothing that have no functional value in the game?",
+        "it": "Quanto ti piace collezionare oggetti o indumenti distintivi che non hanno alcun valore funzionale nel gioco?",
+        "el": "Πόσο σου αρέσει να συλλέγεις χαρακτηριστικά αντικείμενα ή ρουχισμό που δεν έχουν συγκεκριμένη αξία στο παιχνίδι;",
+        "fr": "Dans quelle mesure aimez-vous collectionner des objets ou vêtements particuliers qui n’ont aucune valeur fonctionnelle dans le jeu ?",
+        "es": " ¿Cuánto disfrutas coleccionando objetos distintivos o ropa que no tienen valor funcional en el juego?"
+      }
+    },
+    {
+      "key": "game_importance_leveling_character_fast",
+      "keyNickYee": "Q14",
+      "value": 0,
+      "text": {
+        "en": "Leveling up your character as fast as possible",
+        "it": "Livellare il tuo personaggio il più velocemente possibile",
+        "el": "Η αναβάθμιση του χαρακτήρα σου όσο πιο γρήγορα γίνεται",
+        "fr": "Faire monter le niveau de votre personnage aussi vite que possible",
+        "es": " Subir de nivel a tu personaje lo más rápido posible"
+      }
+    },
+    {
+      "key": "game_importance_acquiring_rare_items",
+      "keyNickYee": "Q15",
+      "value": 0,
+      "text": {
+        "en": "Acquiring rare items that most players will never have",
+        "it": "Acquisire oggetti rari che la maggior parte dei giocatori non avrà mai.",
+        "el": "Η συλλογή σπάνιων αντικειμένων που οι άλλοι παίχτες δεν έχουν",
+        "fr": "Acquérir des objets rares que la plupart des joueurs n'auront jamais",
+        "es": " Adquirir objetos raros que la mayoría de los jugadores nunca tendrán"
+      }
+    },
+    {
+      "key": "game_importance_becoming_powerful",
+      "keyNickYee": "Q16",
+      "value": 0,
+      "text": {
+        "en": "Becoming powerful",
+        "it": "Diventare potenti",
+        "el": "Η απόκτηση δύναμης",
+        "fr": "Devenir puissant",
+        "es": "Volviéndote poderoso"
+      }
+    },
+    {
+      "key": "game_importance_accumulate_resources",
+      "keyNickYee": "Q17",
+      "value": 0,
+      "text": {
+        "en": "Accumulating resources, items or money",
+        "it": "Accumulo di risorse, voci o denaro",
+        "el": "Η συλλογή χρημάτων, αντικειμένων ή άλλων υλικών",
+        "fr": "Accumuler des ressources, des items ou de la monnaie",
+        "es": " Acumulando recursos, artículos o dinero"
+      }
+    },
+    {
+      "key": "game_importance_game_mechanics_rules",
+      "keyNickYee": "Q18",
+      "value": 0,
+      "text": {
+        "en": "Knowing as much about the game mechanics and rules as possible",
+        "it": "Conoscere il più possibile le meccaniche e le regole del gioco",
+        "el": "Η απόκτηση γνώσεων για τους κανόνες και τα τεχνικά του παιχνιδιού",
+        "fr": "En savoir le plus possible sur les mécanismes et règles du jeu",
+        "es": "Conocer la mecánica y las reglas del juego tanto como sea posible."
+      }
+    },
+    {
+      "key": "game_importance_self_sufficient_character",
+      "keyNickYee": "Q19",
+      "value": 0,
+      "text": {
+        "en": "Having a self-sufficient character",
+        "it": "Avere un carattere autosufficiente",
+        "el": "Η απόκτηση ενός ανεξάρτητου χαρακτήρα",
+        "fr": "Avoir un personnage autonome",
+        "es": "Tener un carácter autosuficiente"
+      }
+    },
+    {
+      "key": "game_importance_immersed_fantasy_world",
+      "keyNickYee": "Q20",
+      "value": 0,
+      "text": {
+        "en": "Being immersed in a fantasy world",
+        "it": "Essere immersi in un mondo fantastico",
+        "el": "Η είσοδος σε έναν φανταστικό κόσμο",
+        "fr": "Être immergé dans un monde fantastique",
+        "es": "Estar inmerso en un mundo de fantasía"
+      }
+    },
+    {
+      "key": "game_importance_escaping_real_world",
+      "keyNickYee": "Q21",
+      "value": 0,
+      "text": {
+        "en": "Escaping from the real world",
+        "it": "Fuga dal mondo reale",
+        "el": "Η διαφυγή από τον πραγματικό κόσμο",
+        "fr": "S’échapper de la réalité",
+        "es": "Escapar del mundo real"
+      }
+    },
+    {
+      "key": "game_importance_helping_other",
+      "keyNickYee": "Q22",
+      "value": 0,
+      "text": {
+        "en": "Helping other players",
+        "it": "Aiutare gli altri giocatori",
+        "el": "Η βοήθεια προς τους άλλους παίχτες",
+        "fr": "Venir en aide à d’autres joueurs",
+        "es": "Ayudando a otros jugadores"
+      }
+    },
+    {
+      "key": "game_importance_getting_know_other",
+      "keyNickYee": "Q23",
+      "value": 0,
+      "text": {
+        "en": "Getting to know other players",
+        "it": "Conoscere altri giocatori",
+        "el": "Η γνωριμία με άλλους παίχτες",
+        "fr": "Rencontrer d’autres joueurs",
+        "es": "Conociendo a otros jugadores"
+      }
+    },
+    {
+      "key": "game_importance_chatting",
+      "keyNickYee": "Q24",
+      "value": 0,
+      "text": {
+        "en": "Chatting with other players",
+        "it": "Chattare con altri giocatori",
+        "el": "Η συνομιλία με άλλους παίχτες",
+        "fr": "Discuter avec d’autres joueurs",
+        "es": "Chateando con otros jugadores"
+      }
+    },
+    {
+      "key": "game_importance_player_vs_player",
+      "keyNickYee": "Q25",
+      "value": 0,
+      "text": {
+        "en": "Competing with other players",
+        "it": "Concorrenza con altri giocatori",
+        "el": "Ο ανταγωνισμός με άλλους παίχτες",
+        "fr": "Être en compétition avec d’autres joueurs",
+        "es": "Compitiendo con otros jugadores"
+      }
+    },
+    {
+      "key": "game_importance_dominate_kill_others",
+      "keyNickYee": "Q26",
+      "value": 0,
+      "text": {
+        "en": "Dominating/killing other players",
+        "it": "Dominare/Uccidere altri giocatori",
+        "el": "Η κυριαρχία ή ο θάνατος άλλων παιχτών",
+        "fr": "Dominer/tuer d’autres joueurs",
+        "es": "Dominar / matar a otros jugadores"
+      }
+    },
+    {
+      "key": "game_importance_explore_map_zone_world",
+      "keyNickYee": "Q27",
+      "value": 0,
+      "text": {
+        "en": "Exploring every map or zone in the world",
+        "it": "Esplorare ogni mappa o zona del mondo",
+        "el": "Η εξερεύνηση όλων των χαρτών και τοποθεσιών του παιχνιδιού",
+        "fr": "Explorer chaque carte ou zone d’un monde ",
+        "es": "Explorando cada mapa o zona del mundo"
+      }
+    },
+    {
+      "key": "game_importance_part_casual_guild",
+      "keyNickYee": "Q28",
+      "value": 0,
+      "text": {
+        "en": "Being part of a friendly, casual guild",
+        "it": "Far parte di un'amichevole e casuale gilda.",
+        "el": "Η συμμετοχή σε μια φιλική, άτυπη ομάδα",
+        "fr": "Faire partie d'une guilde conviviale et décontractée",
+        "es": "Ser parte de un gremio amigable e informal"
+      }
+    },
+    {
+      "key": "game_importance_part_serious_guild",
+      "keyNickYee": "Q29",
+      "value": 0,
+      "text": {
+        "en": "Being part of a serious, raid/lootoriented guild",
+        "it": "Far parte di una gilda seria, orientata al raid/loot-oriented",
+        "el": "Η συμμετοχή σε μια σοβαρή ομάδα με στόχο τα λάφυρα",
+        "fr": "Faire partie d'une guilde sérieuse, orientée raid/butin",
+        "es": "Ser parte de un gremio serio, incursión / motor"
+      }
+    },
+    {
+      "key": "game_importance_trying_new_roles",
+      "keyNickYee": "Q30",
+      "value": 0,
+      "text": {
+        "en": "Trying out new roles and personalities with your characters",
+        "it": "Provare nuovi ruoli e personalità con i tuoi personaggi",
+        "el": "Η δοκιμή νέων ρόλων και προσωπικοτήτων με τον χαρακτήρα σου",
+        "fr": "Essayer de nouveaux rôles et personnalités avec vos personnages",
+        "es": "Probar nuevos roles y personalidades con tus personajes"
+      }
+    },
+    {
+      "key": "game_importance_annoying_others",
+      "keyNickYee": "Q31",
+      "value": 0,
+      "text": {
+        "en": "Doing things that annoy other players",
+        "it": "Fare cose che infastidiscono gli altri giocatori",
+        "el": "Η ενοχλητική συμπεριφορά προς άλλους παίκτες",
+        "fr": "Importuner les autres joueurs",
+        "es": "Hacer cosas que molestan a otros jugadores"
+      }
+    },
+    {
+      "key": "game_importance_meaningful_conversations",
+      "keyNickYee": "Q32",
+      "value": 0,
+      "text": {
+        "en": "How often do you find yourself having conversations with other players?",
+        "it": "Quante volte ti capita di avere conversazioni con altri giocatori?",
+        "el": "Πόσο συχνά έχετε σημαντικές συνομιλίες με άλλους παίκτες;",
+        "fr": "À quelle fréquence pensez-vous avoir des discussions avec d’autres joueurs ?",
+        "es": "¿Con qué frecuencia te encuentras teniendo conversaciones con otros jugadores?"
+      }
+    },
+    {
+      "key": "game_importance_talk_personal_issues",
+      "keyNickYee": "Q33",
+      "value": 0,
+      "text": {
+        "en": "How often do you talk to your online friends about your personal issues?",
+        "it": "Con quale frequenza parli ai tuoi amici online dei tuoi problemi personali?",
+        "el": "Πόσο συχνά μιλάτε με τους διαδικτυακούς σας φίλους για προσωπικά σας ζητήματα;",
+        "fr": "Discutez-vous souvent de vos problèmes personnels avec vos amis en ligne ?",
+        "es": "¿Con qué frecuencia hablas con tus amigos en línea sobre tus problemas personales?"
+      }
+    },
+    {
+      "key": "game_importance_receive_support_reallife_problems",
+      "keyNickYee": "Q34",
+      "value": 0,
+      "text": {
+        "en": "How often have your online friends offered you support when you had a real life problem?",
+        "it": "Quante volte i tuoi amici online ti hanno offerto supporto quando hai avuto un problema di vita reale?",
+        "el": "Πόσο συχνά οι διαδικτυακοί σας φίλοι σας στήριξαν σε κάποιο πρόβλημα που αντιμετωπίζατε στη ζωή σας; ",
+        "fr": "Avez-vous souvent  reçu le soutien de vos amis en ligne suite à  un problème réel ?",
+        "es": "¿Con qué frecuencia sus amigos en línea le han ofrecido apoyo cuando tenía un problema de la vida real?"
+      }
+    },
+    {
+      "key": "game_importance_make_stories_for_your_character",
+      "keyNickYee": "Q35",
+      "value": 0,
+      "text": {
+        "en": "How often do you make up stories and histories for your characters?",
+        "it": "Con quale frequenza inventi storie e storie per i tuoi personaggi?",
+        "el": "Πόσο συχνά αναρτάτε stories για τον χαρακτήρα σας; ",
+        "fr": "Imaginez-vous souvent des histoires pour vos personnages ?",
+        "es": "¿Con qué frecuencia inventas historias e historias para tus personajes?"
+      }
+    },
+    {
+      "key": "game_importance_role_play_characters",
+      "keyNickYee": "Q36",
+      "value": 0,
+      "text": {
+        "en": "How often do you role-play your character?",
+        "it": "Con quale frequenza interpreta il suo personaggio?",
+        "el": "Πόσο συχνά αλλάζετε το ρόλο του χαρακτήρα σας; ",
+        "fr": "Vous mettez-vous souvent dans la peau de votre personnage ?"
+      },
+      "excluded": true
+    },
+    {
+      "key": "game_importance_play_to_avoid_reallife_problems",
+      "keyNickYee": "Q37",
+      "value": 0,
+      "text": {
+        "en": "How often do you play so you can avoid thinking about some of your real-life problems or worries?",
+        "it": "Quante volte si gioca in modo da poter evitare di pensare ad alcuni dei problemi o preoccupazioni della vita reale?",
+        "el": "Πόσο συχνά παίζετε ώστε να αποφεύγετε να σκέφτεστε μερικά από τα προσωπικά σας προβλήματα;",
+        "fr": "Jouez-vous souvent pour éviter de penser à certains problèmes ou inquiétudes de votre vie ?",
+        "es": "¿Con qué frecuencia juegas para evitar pensar en algunos de tus problemas o preocupaciones de la vida real?"
+      }
+    },
+    {
+      "key": "game_importance_play_to_relax",
+      "keyNickYee": "Q38",
+      "value": 0,
+      "text": {
+        "en": "How often do you play to relax from the day's work?",
+        "it": "Quante volte si gioca per rilassarsi dal lavoro di oggi?",
+        "el": "Πόσο συχνά παίζετε ώστε να χαλαρώσετε από την εργασία σας;",
+        "fr": "Jouez-vous souvent pour vous détendre après une journée de travail ?",
+        "es": "¿Con qué frecuencia juegas para relajarte del trabajo del día?"
+      }
+    },
+    {
+      "key": "game_importance_try_to_provoke_others",
+      "keyNickYee": "Q39",
+      "value": 0,
+      "text": {
+        "en": "How often do you purposefully try to provoke or irritate other players?",
+        "it": "Quante volte cercate deliberatamente di provocare o irritare gli altri giocatori?",
+        "el": "Πόσο συχνά  προκαλείτε ή εκνευρίζετε άλλους παίκτες;",
+        "fr": "Essayez-vous souvent de provoquer délibérément ou irriter les autres joueurs ?",
+        "es": "¿Con qué frecuencia intenta a propósito provocar o irritar a otros jugadores?"
+      }
+    }
+  ]
+}

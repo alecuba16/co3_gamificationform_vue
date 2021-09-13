@@ -1,0 +1,45 @@
+{ 
+	"title":{ 
+	   "en":"Which is your occupational role?",
+	   "it":"Qual è il tuo ruolo professionale?",
+	   "el":"Ποιος είναι ο ρόλος σας στην εργασία σας;",
+	   "fr":"Quel poste occupez-vous?"
+	},
+	"keyValueArray":[ 
+	   { 
+		  "key":"intern",
+		  "text":{ 
+			 "en":"Intern",
+			 "it":"Stagista"
+		  }
+	   },
+	   { 
+		  "key":"junior",
+		  "text":{ 
+			 "en":"Junior",
+			 "it":"Junior"
+		  }
+	   },
+	   { 
+		  "key":"senior",
+		  "text":{ 
+			 "en":"Senior",
+			 "it":"Senior"
+		  }
+	   },
+	   { 
+		  "key":"manager",
+		  "text":{ 
+			 "en":"Manager",
+			 "it":"Manager"
+		  }
+	   },
+	   { 
+		  "key":"executive",
+		  "text":{ 
+			 "en":"Executive",
+			 "it":"Executive"
+		  }
+	   }
+	]
+ }

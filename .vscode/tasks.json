@@ -1,0 +1,51 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "serve",
+            "isBackground": true,
+            "problemMatcher": {
+                "owner": "custom",
+                "pattern": {
+                    "regexp": "^$"
+                },
+                "background": {
+                    "activeOnStart": true,
+                    "beginsPattern": "Compiling...",
+                    "endsPattern": "Compiled .*"
+                }
+            },
+            "label": "npmServe"
+        },       
+        {
+            "type": "shell",
+            "command":"taskkill -T -F -IM node.exe",
+            // "command": [
+            //     "${command:workbench.action.terminal.kill}"
+            // ],
+            "label": "npmKill"
+        },
+        {
+            "type": "npm",
+            "script": "build",
+            "isBackground": true,
+            "problemMatcher": {
+                "owner": "custom",
+                "pattern": {
+                    "regexp": "^$"
+                },
+                "background": {
+                    "activeOnStart": true,
+                    "beginsPattern": "Compiling...",
+                    "endsPattern": "Build complete.*"
+                }
+            },
+            "label": "build",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

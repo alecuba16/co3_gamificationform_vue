@@ -1,0 +1,65 @@
+{ 
+   "description":"D9. Which of the following systems do you use when you go for shopping (regardless it is offline or online)?",
+   "title":{ 
+      "en":"Which of the following systems do you use when you go for shopping (regardless it is offline or online)?",
+      "it":"Quali dei seguenti sistemi usi nello shopping, indipendentemente dal fatto che sia offline o online?",
+      "el":"Ποια από τα παρακάτω συστήματα χρησιμοποιείτε όταν πάτε για ψώνια (ανεξάρτητα από το αν είναι online αγορές ή όχι)",
+      "fr":"En ligne ou non, quels sont les systèmes d’achat que vous avez été amené à utiliser ?"
+   },
+   "keyValueArray":[ 
+      { 
+         "key":"coupon",
+         "text":{ 
+            "en":"Coupons",
+            "it":"Coupon",
+            "el":"Κουπόνια",
+            "fr":"Coupons"
+         }
+      },
+      { 
+         "key":"prepaid_cards",
+         "text":{ 
+            "en":"Prepaid cards",
+            "it":"Carte prepagate",
+            "el":"Προπληρωμένη κάρτα",
+            "fr":"Cartes prépayées"
+         }
+      },
+      { 
+         "key":"loyalty_cards",
+         "text":{ 
+            "en":"Loyalty cards",
+            "it":"Carte fedeltà",
+            "el":"Πιστωτική κάρτα",
+            "fr":"Cartes de fidélité"
+         }
+      },
+      { 
+         "key":"points_collection",
+         "text":{ 
+            "en":"Points collection",
+            "it":"Raccolta punti",
+            "el":"Σημεία συλλογής",
+            "fr":"Bons de réduction"
+         }
+      },
+      { 
+         "key":"discounts",
+         "text":{ 
+            "en":"Discounts",
+            "it":"Sconti",
+            "el":"Εκπτώσεις",
+            "fr":"Remises"
+         }
+      },
+      { 
+         "key":"none_of_these",
+         "text":{ 
+            "en":"None of these",
+            "it":"Nessuno di questi",
+            "el":"Κανένα από τα παραπάνω",
+            "fr":"Aucun"
+         }
+      }
+   ]
+}

@@ -1,0 +1,82 @@
+{ 
+    "title":{ 
+       "en":"What do you like to share in Social Networks?",
+       "it":"Che tipo di contenuti ti piace condividere sui Social Networks?",
+       "el":"Τί σας αρέσει να μοιράζεστε περισσότερο στα Μέσα Κοινωνικής Δικτύωσης;",
+       "fr":"Qu’aimeriez vous partager sur un réseau social ?"
+    },
+    "keyValueArray":[ 
+       { 
+          "key":"educational_videos_photos",
+          "text":{ 
+             "en":"Educational videos/posts",
+             "it":"Videos/posts educativi",
+             "el":"Εκπαιδευτικά βίντεο/αναρτήσεις",
+             "fr":"Vidéos éducatives"
+          }
+       },
+       { 
+          "key":"professional_videos_photos",
+          "text":{ 
+             "en":"Professional videos/posts",
+             "it":"Videos/posts professionali",
+             "el":"Επαγγελματικά βίντεο/αναρτήσεις",
+             "fr":"Vidéos professionnelles"
+          }
+       },
+       { 
+          "key":"humor_videos",
+          "text":{ 
+             "en":"Humor videos",
+             "it":"Humor",
+             "el":"Χιουμοριστικά βίντεο",
+             "fr":"Vidéos humoristiques"
+          }
+       },
+       { 
+          "key":"personal_videos_photos",
+          "text":{ 
+             "en":"Videos or Personal Photos",
+             "it":"Video o foto personali",
+             "el":"Βίντεο ή Προσωπικές φωτογραφίες",
+             "fr":"Vidéo et photos personnelles"
+          }
+       },
+       { 
+          "key":"personal_posts",
+          "text":{ 
+             "en":"Personal Posts",
+             "it":"Post personali",
+             "el":"Προσωπικές αναρτήσεις",
+             "fr":"Commentaires personnels"
+          }
+       },
+       { 
+          "key":"favorite_videos_books_games",
+          "text":{ 
+             "en":"My favorite videos, books or games",
+             "it":"News su libri, giochi o contenuti che mi piacciono",
+             "el":"Τα αγαπημένα μου βίντεο, βιβλία ή παιχνίδια",
+             "fr":"Vidéos, livres et jeux préférés"
+          }
+       },
+       { 
+          "key":"reshare_posts",
+          "text":{ 
+             "en":"Re-Share other posts",
+             "it":"Ri-condivisione di post di altri",
+             "el":"Κοινοποίηση άλλων αναρτήσεων",
+             "fr":"Partage de commentaires"
+          }
+       },
+       { 
+          "key":"my_positions",
+          "text":{ 
+             "en":"My position, locations where I am",
+             "it":"La mia posizione (geolocalizzazione)",
+             "el":"Την τοποθεσία μου, μέρη όπου βρίσκομαι",
+             "fr":"Ma localisation"
+          }
+       }
+    ]
+ }

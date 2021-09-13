@@ -1,0 +1,166 @@
+{ 
+   "title":{ 
+      "en":"What do you usually buy online?",
+      "it":"Cosa compri di solito online?",
+      "el":"Τι αγοράζετε συνήθως στο διαδίκτυο;",
+      "fr":"Qu'est-ce que vous achetez habituellement en ligne ?"
+   },
+   "scale_title":{
+      "en":"( 0 = Never , 5 = Always this )",
+      "it":"( 0 = Mai , 5 = sempre questo )",
+      "el":"( 0 = Ποτέ, 5 = Πάντα αυτό)",
+      "fr":"( 0 = Jamais , 5 = Toujours)"
+   },
+   "keyValueArray":[ 
+      { 
+         "key":"shopping_importance_automotive",
+         "value":0,
+         "text":{ 
+            "en":"Automotive",
+            "it":"Accessori e ricambi auto",
+            "el":"εξαρτήματα αυτοκινήτων",
+            "fr":"Automobile"
+         }
+      },
+      { 
+         "key":"shopping_importance_baby_products",
+         "value":0,
+         "text":{ 
+            "en":"Baby products",
+            "it":"Prodotti per l'infanzia",
+            "el":"Προϊόντα για μωρά",
+            "fr":"Produits pour bébés"
+         }
+      },
+      { 
+         "key":"shopping_importance_clothing_shoes",
+         "value":0,
+         "text":{ 
+            "en":"Clothing & Shoes",
+            "it":"Abbigliamento e scarpe",
+            "el":"Ρούχα & Παπούτσια",
+            "fr":"Vêtements et chaussures"
+         }
+      },
+      { 
+         "key":"shopping_importance_computers",
+         "value":0,
+         "text":{ 
+            "en":"Computers (Hardware,Software,accessories,devices...)",
+            "it":"Tecnologia (hardware, software, accessori, dispositivi ...)",
+            "el":"Υπολογιστές (Hardware, Λογισμικό, Αξεσουάρ, Συσκευές ...)",
+            "fr":"Ordinateurs (matériel, logiciels, accessoires, appareils...)"
+         }
+      },
+      { 
+         "key":"shopping_importance_consoles",
+         "value":0,
+         "text":{ 
+            "en":"Consoles (Games, accessories...)",
+            "it":"Console (giochi, accessori ...)",
+            "el":"Κονσόλες (Παιχνίδια, αξεσουάρ ...)",
+            "fr":"Consoles (Jeux, accessoires...)"
+         }
+      },
+      { 
+         "key":"shopping_importance_electronics_others",
+         "value":0,
+         "text":{ 
+            "en":"Electronics (cameras, TV, audio ...)",
+            "it":"Elettronica (camera fotografiche, TV, audio ...)",
+            "el":"Ηλεκτρονικά (κάμερες, τηλεόραση, ήχος ...)",
+            "fr":"Electronique (caméras, TV, audio...)"
+         }
+      },
+      { 
+         "key":"shopping_importance_entertainment_arts",
+         "value":0,
+         "text":{ 
+            "en":"Entertainment & Arts (Toys, Music...)",
+            "it":"Spettacolo e arte (biglietti, musica ...)",
+            "el":"Διασκέδαση & Τέχνες (Παιχνίδια, Μουσική ...)",
+            "fr":"Divertissement & Arts (Jouets, Musique...)"
+         }
+      },
+      { 
+         "key":"shopping_importance_food_gifts",
+         "value":0,
+         "text":{ 
+            "en":"Food & Gifts",
+            "it":"Cibo",
+            "el":"Τρόφιμα & Δώρα",
+            "fr":"Nourriture & Cadeaux"
+         }
+      },
+      { 
+         "key":"shopping_importance_health_beauty",
+         "value":0,
+         "text":{ 
+            "en":"Health & Beauty",
+            "it":"Salute e bellezza",
+            "el":"Υγεία & Ομορφιά",
+            "fr":"Santé & Beauté"
+         }
+      },
+      { 
+         "key":"shopping_importance_home_garden",
+         "value":0,
+         "text":{ 
+            "en":"Home & Garden",
+            "it":"Casa & Giardino",
+            "el":"Σπίτι & Κήπος",
+            "fr":"Maison & Jardin"
+         }
+      },
+      { 
+         "key":"shopping_importance_office_professional_services",
+         "value":0,
+         "text":{ 
+            "en":"Office & Professional Services (Supplies, Communication...)",
+            "it":"Servizi d'ufficio e professionali (comunicazione ...)",
+            "el":"Γραφείο & Επαγγελματικές Υπηρεσίες (Αναλώσιμα, Επικοινωνία ...)",
+            "fr":"Services professionnels et de bureau (fournitures, communications...)"
+         }
+      },
+      { 
+         "key":"shopping_importance_personal_home_services",
+         "value":0,
+         "text":{ 
+            "en":"Personal & Home Services (Financial, Home search)",
+            "it":"Servizi personali e per la casa (finanziari, ricerca casa)",
+            "el":"Προσωπικές και οικιακές υπηρεσίες (Οικονομικά, αναζήτηση στο σπίτι)",            
+            "fr":"Services personnels et à domicile (financiers, recherche de logement)"
+         }
+      },
+      { 
+         "key":"shopping_importance_restaurants_dining",
+         "value":0,
+         "text":{ 
+            "en":"Restaurants & Dining",
+            "it":"Ristoranti & Gastronomia",
+            "el":"Εστιατόρια & Δείπνο",
+            "fr":"Restaurants & Restaurants"
+         }
+      },
+      { 
+         "key":"shopping_importance_sport_outdoors",
+         "value":0,
+         "text":{ 
+            "en":"Sports & Outdoors",
+            "it":"Sport & Outdoor",
+            "el":"Αθλητισμός & Υπαίθρια",
+            "fr":"Sports et plein air"
+         }
+      },
+      { 
+         "key":"shopping_importance_travel",
+         "value":0,
+         "text":{ 
+            "en":"Travel",
+            "it":"Viaggi",
+            "el":"Ταξίδι",
+            "fr":"Voyage"
+         }
+      }
+   ]
+}

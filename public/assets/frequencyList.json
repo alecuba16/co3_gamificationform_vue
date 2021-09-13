@@ -1,0 +1,60 @@
+{ 
+    "description":"D6. During last year, did you shop online? , D8. During last year, did you take part to crowdfunding campaigns? , D11. During last year, have you accessed online forums? , D12. During last year, have you used Augmented Reality apps or devices? , D13. Do you usually use online learning/training services?",
+    "keyValueArray":[ 
+       { 
+          "key":"dontknow",
+          "text":{ 
+             "en":"I don’t know what they are",
+             "it":"Non so cosa siano",
+             "el":"Δε γνωρίζω τι είναι",
+             "fr":"Je ne sais pas ce que c’est"
+          }
+       },
+       { 
+          "key":"never",
+          "text":{ 
+             "en":"Never",
+             "it":"Mai",
+             "el":"Ποτέ",
+             "fr":"Jamais"
+          } 
+       },
+       { 
+          "key":"rarely_1_2_times_a_year",
+          "text":{ 
+             "en":"Rarely (1-2 times a year)",
+             "it":"Raramente (1-2 volte l'anno)",
+             "el":"Σπάνια (1-2 φορές το χρόνο) ",
+             "fr":"Rarement (1-2 fois par an)"
+          } 
+       },
+       { 
+          "key":"occasionally_3_6_times_a_year",
+          "text":{ 
+             "en":"Occasionally (3-6 times a year)",
+             "it":"Occasionalmente (3-6 volte l'anno)",
+             "el":"Περιστασιακά (3-6 φορές το χρόνο)",
+             "fr":"Occasionnellement (3-6 fois par an)"
+          }
+ 
+       },
+       { 
+          "key":"frequently_1_times_a_month",
+          "text":{ 
+             "en":"Frequently (1 or more times a month)",
+             "it":"Frequentemente (1 o più volte al mese)",
+             "el":"Συχνά (1 ή περισσότερες φορές το μήνα)",
+             "fr":"Fréquemment (1 ou plusieurs fois par mois)"
+          }
+       },
+       { 
+          "key":"frequently_1_times_a_week",
+          "text":{ 
+             "en":"Very frequently (1 time or more a week)",
+             "it":"Molto frequentemente (1 volta o più a settimana)",
+             "el":"Πολύ συχνά (1 ή περισσότερες φορές την εβδομάδα)",
+             "fr":"Très fréquemment (1 ou plusieurs fois par semaine)"
+          } 
+       }
+    ]
+ }

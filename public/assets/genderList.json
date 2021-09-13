@@ -1,0 +1,41 @@
+{ 
+	"title":{ 
+	   "en":"Please indicate your gender",
+	   "it":"Indica il tuo genere.",
+	   "el":"Παρακαλώ σημειώστε το φύλο σας",
+	   "fr":"Indiquez votre genre",
+	   "es":"Por favor indica tu género"
+	},
+	"keyValueArray":[ 
+	   { 
+		  "key":"male",
+		  "text":{ 
+			 "en":"Male",
+			 "it":"Uomo",
+			 "el":"Άνδρας",
+			 "fr":"Homme",
+			 "es":"Hombre"
+		  }
+	   },
+	   { 
+		  "key":"female",
+		  "text":{ 
+			 "en":"Female",
+			 "it":"Donna",
+			 "el":"Γυναίκα",
+			 "fr":"Femme",
+			 "es":"Femenino"
+		  }
+	   },
+	   { 
+		  "key":"no_respond",
+		  "text":{ 
+			 "en":"I prefer do not respond",
+			 "it":"Preferisco non rispondere",
+			 "el":"Προτιμώ να μην απαντήσω",
+			 "fr":"Je préfère ne pas répondre",
+			 "es": "Prefiero no responder"
+		  }
+	   }
+	]
+ }

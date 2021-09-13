@@ -1,0 +1,15 @@
+export const themoviedbAPIKEY="MYAPIKEY";
+export const captchaSiteKey="MYCAPTCHA";
+export const corsProxy="YOURCORSPROXYIP";
+export const googleSheetUrl="https://script.google.com/macros/s/GOOGHESHEETURL/exec";
+export const proxiedGoogleSheetUrl="https://"+corsProxy+"/cors/" + googleSheetUrl;
+export const ipGeoUrl="http://ip-api.com/json/";
+export const JSONSERVER_URL="https://"+corsProxy+"/api/gamificationform";
+export const proxiedIpGeoUrl="https://"+corsProxy+"/cors/" + ipGeoUrl;
+//export const localhostProxiedGoogleSheetUrl="https://cors-anywhere.herokuapp.com/" + googleSheetUrl;
+export const localhostProxiedGoogleSheetUrl="/projectco3proxy";
+export const finishRedirectUrl="https://www.projectco3.eu";
+export const JSONSERVER_API_KEY="APIKEY";
+export const JSONSERVER_DATA_COLLECTION="data";
+export const JSONSERVER_VISIT_COLLECTION="visit";
+export const JSONSERVER_ERROR_COLLECTION="error";

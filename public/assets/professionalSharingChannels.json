@@ -1,0 +1,96 @@
+{ 
+   "description":"D10. What channels do you use to share your own professional interests (news, activities, event)?",
+   "title":{ 
+      "en":"What channels do you use to share your own professional knowledge (interesting news, activities, event)?",
+      "it":"Quali canali utilizzi per condividere le tue conoscenze professionali (notizie interessanti, attività, eventi)?",
+      "el":"Ποια κανάλια χρησιμοποιείτε για να μοιραστείτε τις δικές σας επαγγελματικές γνώσεις (ενδιαφέρουσες ειδήσεις, δραστηριότητες, εκδηλώσεις);",
+      "fr":"Quels canaux utilisez-vous pour partager vos propres connaissances professionnelles (nouvelles intéressantes, activités, événements) ?"
+   },
+   "dontUseKey":"i_dont_share",
+   "keyValueArray":[ 
+      { 
+         "key":"i_dont_share",
+         "text":{ 
+            "en":"I don't share",
+            "it":"Non condivido",
+            "el":"Δεν μοιράζομαι",
+            "fr":"Je ne partage pas"
+         },
+         "exclusive":true
+      },
+      { 
+         "key":"email",
+         "text":{ 
+            "en":"Email"
+         },
+         "exclusive":false
+      },
+      { 
+         "key":"social_networks",
+         "text":{ 
+            "en":"Social Networks",
+            "it":"Social Networks",
+            "el":"Κοινωνικά δίκτυα",
+            "fr":"Réseaux sociaux"
+         },
+         "exclusive":false
+      },
+      { 
+         "key":"face_2_face_conversations",
+         "text":{ 
+            "en":"Face to face conversations",
+            "it":"Conversazioni faccia a faccia",
+            "el":"Συζητήσεις πρόσωπο με πρόσωπο",
+            "fr":"Conversations en face à face"
+         },
+         "exclusive":false
+      },
+      { 
+         "key":"blogs_sites_on_internet",
+         "text":{ 
+            "en":"Blogs / Sites on the Internet",
+            "it":"Blog / Siti su Internet",
+            "el":"Blogs / Sites στο Διαδίκτυο",
+            "fr":"Blogs / Sites sur Internet"
+         },
+         "exclusive":false
+      },
+      { 
+         "key":"wikipedia",
+         "text":{ 
+            "en":"Wikipedia"
+         },
+         "exclusive":false
+      },
+      { 
+         "key":"wikipedia_like",
+         "text":{ 
+            "en":"Portals like wikpedia (wikies types)",
+            "it":"Portali come Wikipedia (tipi di wiki)",
+            "el":"Πύλες όπως η wikipedia (τύποι wikis)",
+            "fr":"Portails comme wikpedia (types de wikipedia)"
+         },
+         "exclusive":false
+      },
+      { 
+         "key":"publications_scientific",
+         "text":{ 
+            "en":"Publications in scientific media",
+            "it":"Pubblicazioni su media scientifici",
+            "el":"Δημοσιεύσεις σε επιστημονικά μέσα",
+            "fr":"Publications dans les médias scientifiques"
+         },
+         "exclusive":false
+      },
+      { 
+         "key":"publications_regular",
+         "text":{ 
+            "en":"Publications in regular media",
+            "it":"Pubblicazioni su media regolari",
+            "el":"Δημοσιεύσεις σε κανονικά μέσα ενημέρωσης",
+            "fr":"Publications dans les médias réguliers"
+         },
+         "exclusive":false
+      }
+   ]
+}

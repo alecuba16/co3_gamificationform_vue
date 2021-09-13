@@ -1,0 +1,154 @@
+{ 
+   "title":{ 
+      "en":"What elements motivate you to perform some activities (such as job, hobbies, sport, volunteering, …)?",
+      "it":"Quali elementi ti motivano maggiormente nelle tue attività (lavoro, hobby, sport, volontariato…)?",
+      "el":"What elements motivate you to perform some activities (such as job, hobbies, sport, volunteering, …)?",
+      "fr":"Quels sont les éléments qui vous motivent à faire certaines activités (comme le travail, les loisirs, le sport, le bénévolat,...)?"
+    },
+   "keyValueArray":[ 
+       { 
+         "key":"economic_incentives",
+         "text":{ 
+            "en":"Economic incentives",
+            "it":"Incentivi economici",
+            "el":"Οικονομικά κίνητρα",
+            "fr":"L’argent"
+          }
+       },
+       { 
+         "key":"prestige",
+         "text":{ 
+            "en":"Prestige",
+            "it":"Il prestigio",
+            "el":"Κύρος",
+            "fr":"Le prestige"
+          }
+       },
+       { 
+         "key":"competition",
+         "text":{ 
+            "en":"Competition",
+            "it":"La competizione",
+            "el":"Ανταγωνισμός",
+            "fr":"La compétition"
+          }
+       },
+       { 
+         "key":"offer_better_treatments",
+         "text":{ 
+            "en":"Being able to offer better treatments/solutions",
+            "it":"Essere in grado di offrire soluzioni migliori",
+            "el":"Ικανότητα να προσφέρω καλύτερες λύσεις",
+            "fr":"Pouvoir proposer de meilleures solutions"
+          }
+       },
+       { 
+         "key":"help_others",
+         "text":{ 
+            "en":"Help others",
+            "it":"Aiutare gli altri",
+            "el":"Παροχή βοήθειας στους άλλους",
+            "fr":"Aider les autres"
+          }
+       },
+       { 
+         "key":"teamwork",
+         "text":{ 
+            "en":"Teamwork",
+            "it":"Il lavoro di squadra",
+            "el":"Ομαδικότητα",
+            "fr":"Travailler en équipe"
+          }
+       },
+       { 
+         "key":"reach_dreams",
+         "text":{ 
+            "en":"Reach dreams",
+            "it":"Realizzare i miei sogni",
+            "el":"Εκπλήρωση στόχων",
+            "fr":"Accomplir des rêves"
+          }
+       },
+       { 
+         "key":"climb_up_professionally",
+         "text":{ 
+            "en":"Climb up professionally",
+            "it":"Crescere professionalmente",
+            "el":"Επαγγελματική ανέλιξη",
+            "fr":"Progresser professionnellement"
+          }
+       },
+       { 
+         "key":"contribute_socially",
+         "text":{ 
+            "en":"Contribute socially",
+            "it":"Contribuire alla società",
+            "el":"Κοινωνική συνεισφορά",
+            "fr":"Contribuer socialement"
+          }
+       },
+       { 
+         "key":"share_experience_knowledge",
+         "text":{ 
+            "en":"Share experience and/or knowledge",
+            "it":"Condividere esperienza e / o conoscenza",
+            "el":"Διαμοιρασμός γνώσης και εμπειρίας",
+            "fr":"Partager expérience et savoir"
+          }
+       },
+       { 
+         "key":"learn_new_things",
+         "text":{ 
+            "en":"Learn new things",
+            "it":"Imparare cose nuove",
+            "el":"Μάθηση νέων πραγμάτων",
+            "fr":"Apprendre de nouvelles choses"
+          }
+       },
+       { 
+         "key":"discover_new_things",
+         "text":{ 
+            "en":"Discover new things",
+            "it":"Scoprire cose nuove",
+            "el":"Ανακάλυψη νέων πραγμάτων",
+            "fr":"Découvrir"
+          }
+       },
+       { 
+         "key":"expand_circle_colleagues",
+         "text":{ 
+            "en":"Expand the circle of colleagues",
+            "it":"Espandere la cerchia dei colleghi",
+            "el":"Διεύρυνση εργασιακού κύκλου",
+            "fr":"Étendre mon réseau de collègues"
+          }
+       },
+       { 
+         "key":"help_other_professionals",
+         "text":{ 
+            "en":"Help other professionals",
+            "it":"Aiutare altri professionisti",
+            "el":"Βοήθεια προς άλλους επαγγελματίες",
+            "fr":"Aider d’autres professionnels"
+          }
+       },
+       { 
+         "key":"receive_help_other_professionals",
+         "text":{ 
+            "en":"Receive help from other professionals",
+            "it":"Ricevere aiuto da altri professionisti",
+            "el":"Αποδοχή βοήθειας από άλλους επαγγελματίες",
+            "fr":"Recevoir l’aide d’autres professionnels"
+          }
+       },
+       { 
+         "key":"do_creative_things",
+         "text":{ 
+            "en":"Do creative things",
+            "it":"Fare attività creative",
+            "el":"Ανάπτυξη δημιουργικότητας",
+            "fr":"Faire des choses créatives"
+          }
+       }
+    ]
+ }

@@ -1,0 +1,55 @@
+{ 
+    "title":{ 
+       "en":"Which is your maximum education level?",
+       "it":"Qual è il tuo livello massimo di istruzione?",
+       "el":"Ποιο είναι το επίπεδο μόρφωσης σας",
+       "fr":"Quel est votre niveau d’études ?"
+    },
+    "keyValueArray":[ 
+       { 
+          "key":"primary_education",
+          "text":{ 
+             "en":"Primary education",
+             "it":"Istruzione primaria",
+             "el":"Πρωτοβάθμια εκπαίδευση",
+             "fr":"Collège"
+          }
+       },
+       { 
+          "key":"secondary_education",
+          "text":{ 
+             "en":"Secondary education / High school or equivalent",
+             "it":"Istruzione secondaria / scuola superiore o equivalente",
+             "el":"Δευτεροβάθμια εκπαίδευση",
+             "fr":"Lycée"
+          }
+       },
+       { 
+          "key":"bachelor",
+          "text":{ 
+             "en":"Bachelor's degree",
+             "it":"Laurea triennale",
+             "el":"Τριτοβάθμια εκπαίδευση",
+             "fr":"Licence"
+          }
+       },
+       { 
+          "key":"master",
+          "text":{ 
+             "en":"Master's degree",
+             "it":"Laurea magistrale",
+             "el":"Μεταπτυχιακός τίτλος σπουδών",
+             "fr":"Master"
+          }
+       },
+       { 
+          "key":"doctoral",
+          "text":{ 
+             "en":"Doctoral degree",
+             "it":"Post-laurea",
+             "el":"Διδακτορικό",
+             "fr":"Doctorat"
+          }
+       }
+    ]
+ }
